@@ -1,0 +1,6774 @@
+{
+	"Model":
+		{
+
+			"mlv/nt_2020_red_house_roof_shell":
+			{
+				"Address": "0x82ED5424",
+				"Material": "mlv/hjk_interior_plastic_tile",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_smg_chicom_world":
+			{
+				"Address": "0x82EB1A2C",
+				"Material": "mc/mtl_t6_wpn_smg_chicom_camo1",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_sig556_world":
+			{
+				"Address": "0x82EB5A08",
+				"Material": "mc/mtl_t6_wpn_ar_sig556_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_hk416_view":
+			{
+				"Address": "0x82EB49D4",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_sig556_view":
+			{
+				"Address": "0x82EB5914",
+				"Material": "mc/mtl_t6_wpn_ar_sig556_camo1",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p_rus_penciljar":
+			{
+				"Address": "0x82ECBE80",
+				"Material": "mc/mtl_p_rus_penciljar",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_smg_vector_view":
+			{
+				"Address": "0x82EB0FB0",
+				"Material": "mc/mtl_t6_wpn_smg_vector_camo1",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"collision_clip_256x256x256":
+			{
+				"Address": "0x82EC9A48",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_pent_manila_folder_dmg":
+			{
+				"Address": "0x82EE0EF4",
+				"Material": "mc/mtl_p_pent_manila_folder",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_drop_box":
+			{
+				"Address": "0x82EC7AD4",
+				"Material": "mc/mtl_t6_wpn_drop_box",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_bookshelf_01":
+			{
+				"Address": "0x82ECC9F0",
+				"Material": "mc/mtl_nt_2020_bookshelf_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_bookshelf_02":
+			{
+				"Address": "0x82ED59DC",
+				"Material": "mc/mtl_nt_2020_bookshelf_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_bookshelf_03":
+			{
+				"Address": "0x82EE4730",
+				"Material": "mc/mtl_nt_2020_bookshelf_03",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_usrpg_world":
+			{
+				"Address": "0x82EBEAE8",
+				"Material": "mc/mtl_t6_wpn_launch_usrpg",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_mul_mp_pmc_longsleeve_viewhands":
+			{
+				"Address": "0x82EE5C28",
+				"Material": "mc/mtl_viewarm_mul_mp_pmc_device",
+				"numBones": "72",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_msmc_world":
+			{
+				"Address": "0x82EB2D3C",
+				"Material": "mc/mtl_t6_wpn_smg_msmc_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_smg_silencer1_world":
+			{
+				"Address": "0x82EB0CD4",
+				"Material": "mc/mtl_t6_attach_smg_silencer1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_ar_silencer1_world":
+			{
+				"Address": "0x82EB5080",
+				"Material": "mc/mtl_t6_attach_ar_silencer1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_svu_world":
+			{
+				"Address": "0x82EBAA18",
+				"Material": "mc/mtl_t6_wpn_sniper_svu",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"nt_2020_wall_design01":
+			{
+				"Address": "0x82ED46CC",
+				"Material": "mc/mtl_nt_2020_wall_design01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_mul_mp_pmc_shortsleeve_viewhands":
+			{
+				"Address": "0x82EE5F04",
+				"Material": "mc/mtl_viewarm_mul_mp_pmc_shortsleeve",
+				"numBones": "72",
+				"numRootBones": "1"
+				},
+			"mp_nuketown_2020_light_post":
+			{
+				"Address": "0x82ED8E48",
+				"Material": "mc/glass_clear_wall_opaque_white",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t5_foliage_hedge_rounded01":
+			{
+				"Address": "0x82ED8D54",
+				"Material": "mc/mtl_p6_foliage_hedge_no_alpha",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_wall_clock_01":
+			{
+				"Address": "0x82ED2B28",
+				"Material": "mc/mtl_nt_2020_wall_clock_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_wall_clock_02":
+			{
+				"Address": "0x82ED21A0",
+				"Material": "mc/mtl_nt_2020_wall_clock_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_xpr50_view":
+			{
+				"Address": "0x82EB8F68",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"veh_t6_civ_car_compact_svr":
+			{
+				"Address": "0x82EAEB78",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_bullet_chain":
+			{
+				"Address": "0x82EB76A0",
+				"Material": "mc/mtl_fx_bullet_chain",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"projectile_t6_drone_tank_missile":
+			{
+				"Address": "0x82EC5D48",
+				"Material": "mc/mtl_veh_t6_drone_tank_missile",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"nt_2020_flag_greece_01":
+			{
+				"Address": "0x82EDBB14",
+				"Material": "mc/mtl_nt_2020_flags_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_svu_world":
+			{
+				"Address": "0x82EBA830",
+				"Material": "mc/mtl_t6_wpn_sniper_svu",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_scarh_world":
+			{
+				"Address": "0x82EB5268",
+				"Material": "mc/mtl_t6_wpn_ar_scarh_camo1",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"t6_attach_smg_silencer2_view":
+			{
+				"Address": "0x82EB1750",
+				"Material": "mc/mtl_t6_attach_smg_silencer1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_an94_world":
+			{
+				"Address": "0x82EB4140",
+				"Material": "mc/mtl_t6_wpn_ar_an94_camo2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_2020_house_04_section":
+			{
+				"Address": "0x82ED1AF4",
+				"Material": "mlv/glass_clear_wall_opaque_white",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_semtex_projectile":
+			{
+				"Address": "0x82EC1C78",
+				"Material": "mc/mtl_t6_wpn_grenade_semtex",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_emp_world":
+			{
+				"Address": "0x82EC3DD4",
+				"Material": "mc/mtl_t6_wpn_grenade_emp",
+				"numBones": "3",
+				"numRootBones": "2"
+				},
+			"t6_wpn_tac_insert_detect":
+			{
+				"Address": "0x82EC27E8",
+				"Material": "mc/mtl_t6_wpn_tac_insert_detect",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"mlv/nt_concrete_fence_post_tall":
+			{
+				"Address": "0x82EDDE58",
+				"Material": "mlv/nt_wood_post",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_emp_view":
+			{
+				"Address": "0x82EC3CE0",
+				"Material": "mc/mtl_t6_wpn_grenade_emp",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"collision_physics_wall_256x256x10":
+			{
+				"Address": "0x82ECB4F8",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_tac_insert_stow":
+			{
+				"Address": "0x82EC2CAC",
+				"Material": "mc/mtl_t6_wpn_tac_insert",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_sa58_world":
+			{
+				"Address": "0x82EB6484",
+				"Material": "mc/mtl_t6_wpn_ar_sa58",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_svu_view":
+			{
+				"Address": "0x82EBA36C",
+				"Material": "mc/mtl_t6_wpn_sniper_svu",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"nt_2020_wall_meter_cap_dest":
+			{
+				"Address": "0x82EE11D0",
+				"Material": "mc/mtl_nt_2020_wall_meter_01_dest",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fxanim_mp_nuked2025_banner01_mod":
+			{
+				"Address": "0x82EE0290",
+				"Material": "mc/mtl_fxanim_nt_2025_banner_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_signs_glass_01_bolt":
+			{
+				"Address": "0x82ECD09C",
+				"Material": "mc/nt_2020_metal_chrome",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"german_shepherd_vest_black":
+			{
+				"Address": "0x82EC8ED8",
+				"Material": "mc/mtl_german_shepherd_black",
+				"numBones": "56",
+				"numRootBones": "1"
+				},
+			"nt_2020_vista_planter_01":
+			{
+				"Address": "0x82ED8984",
+				"Material": "mc/concrete_sidewalk_tile_la2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_c4_world_detect":
+			{
+				"Address": "0x82EC2E94",
+				"Material": "mc/mtl_t6_wpn_c4_detect",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t6_wpn_smg_vector_world":
+			{
+				"Address": "0x82EB10A4",
+				"Material": "mc/mtl_t6_wpn_smg_vector_camo1",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"nt_nuketown_sign_needle":
+			{
+				"Address": "0x82EE4360",
+				"Material": "mc/mtl_nt_nuketown_sign02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_smg_peacekeeper_world":
+			{
+				"Address": "0x82EAED60",
+				"Material": "mc/mtl_t6_wpn_smg_peacekeeper",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"collision_physics_32x32x10":
+			{
+				"Address": "0x82ECA5B8",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_pent_lamp_desk_on":
+			{
+				"Address": "0x82ED1CDC",
+				"Material": "mc/mtl_p_pent_lamp_desk",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_fallout_shelter":
+			{
+				"Address": "0x82EDDB7C",
+				"Material": "mlv/concrete_base02_warm",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_dogtags":
+			{
+				"Address": "0x82EC5978",
+				"Material": "mc/mtl_p6_dogtags",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_shotgun_silencer2_world":
+			{
+				"Address": "0x82EB8028",
+				"Material": "mc/mtl_t6_attach_shotgun_silencer1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_kitchen_light_01_off":
+			{
+				"Address": "0x82ED05FC",
+				"Material": "mc/glass_frosted",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_electrical_pipes_90deg":
+			{
+				"Address": "0x82ECF104",
+				"Material": "mc/mtl_p_rus_pipes_modular",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_lightswitch":
+			{
+				"Address": "0x82ECCEB4",
+				"Material": "mc/mtl_nt_lightswitch",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_bouncing_betty_view":
+			{
+				"Address": "0x82EC3358",
+				"Material": "mc/mtl_t6_wpn_bouncing_betty",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"mlv/nt_concrete_fence_post":
+			{
+				"Address": "0x82EDF168",
+				"Material": "mlv/nt_wood_post",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_express_train_track_b01_flip":
+			{
+				"Address": "0x82EAE2E4",
+				"Material": "mc/metal_aircraft_catapult_strip",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_2020_table_01":
+			{
+				"Address": "0x82ED3880",
+				"Material": "mlv/sub_polished_metal",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_2020_house_02_glass_interior":
+			{
+				"Address": "0x82ED2C1C",
+				"Material": "mlv/nt_2020_glass_trim_glow_simple",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_sprinkler_01_ceiling":
+			{
+				"Address": "0x82ED06F0",
+				"Material": "mc/mtl_p6_pipes_garage_sprinkler_top",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shotty_870mcs_view":
+			{
+				"Address": "0x82EBE06C",
+				"Material": "mc/mtl_t6_attach_trinium_sight_white_add",
+				"numBones": "11",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_female_01_head":
+			{
+				"Address": "0x82EE25D4",
+				"Material": "mc/mtl_nt_2020_manne_fem01_head1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_wall_clock_02_minutes":
+			{
+				"Address": "0x82EE36FC",
+				"Material": "mc/mtl_nt_2020_wall_clock_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_xpr50_view":
+			{
+				"Address": "0x82EB8C8C",
+				"Material": "mc/mtl_t6_wpn_sniper_xpr50",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"p6_lights_club_recessed_dim":
+			{
+				"Address": "0x82ECB8C8",
+				"Material": "mc/metal_wall_brushed",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_hk416_grip_world":
+			{
+				"Address": "0x82EB4E98",
+				"Material": "mc/mtl_t6_wpn_ar_hk416_grip",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_trophy_system_world":
+			{
+				"Address": "0x82EC2AC4",
+				"Material": "mc/mtl_t6_wpn_trophy_system",
+				"numBones": "17",
+				"numRootBones": "1"
+				},
+			"nt_bedside_drawer_purple":
+			{
+				"Address": "0x82ED560C",
+				"Material": "mc/mtl_nt_bedside_drawer_purple",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_cup_warmer_yellow":
+			{
+				"Address": "0x82ED0BB4",
+				"Material": "mc/mtl_nt_2020_cup_warmer_yellow",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_female_02_d0":
+			{
+				"Address": "0x82ED9030",
+				"Material": "mc/mtl_nt_2020_manne_fem01_head1",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"veh_iw_littlebird_minigun_right":
+			{
+				"Address": "0x82EE64BC",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_smg_pdw57_view":
+			{
+				"Address": "0x82EB20D8",
+				"Material": "mc/mtl_t6_wpn_smg_pdw57_camo1",
+				"numBones": "13",
+				"numRootBones": "2"
+				},
+			"nt_2020_flag_canada_01":
+			{
+				"Address": "0x82EDAAE0",
+				"Material": "mc/mtl_nt_2020_flags_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_house_01_railing_01":
+			{
+				"Address": "0x82ED08D8",
+				"Material": "mc/metal_chrome_boat",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_female_02_arm_left":
+			{
+				"Address": "0x82EE2110",
+				"Material": "mc/mtl_nt_2020_manne_fem01_head1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_sa58_world":
+			{
+				"Address": "0x82EB6854",
+				"Material": "mc/mtl_t6_wpn_ar_sa58_camo2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_drone_tank_alt":
+			{
+				"Address": "0x82EC5C54",
+				"Material": "mc/mtl_veh_t6_asd_tread_left",
+				"numBones": "66",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_judge_view":
+			{
+				"Address": "0x82EBC898",
+				"Material": "mc/mtl_t6_attach_tritium_red",
+				"numBones": "14",
+				"numRootBones": "1"
+				},
+			"collision_clip_512x512x512":
+			{
+				"Address": "0x82EC9C30",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_wood_splinter01":
+			{
+				"Address": "0x82ECB6E0",
+				"Material": "mc/mtl_fx_wood_splinter",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_wood_splinter02":
+			{
+				"Address": "0x82ECB7D4",
+				"Material": "mc/mtl_fx_wood_splinter",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"popcorn_cup_stack":
+			{
+				"Address": "0x82ED6DE0",
+				"Material": "mc/mtl_pocorn_cup",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_2020_car_base":
+			{
+				"Address": "0x82ED748C",
+				"Material": "mlv/nt_2020_metal_brushed_trim",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_b2023r_world_lh":
+			{
+				"Address": "0x82EBD220",
+				"Material": "mc/mtl_t6_wpn_pistol_b2023r",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"nt_hydro_wall_holders":
+			{
+				"Address": "0x82EDDA88",
+				"Material": "mc/nt_2020_pipes_ceramic_holes",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_128x128x10":
+			{
+				"Address": "0x82ECAC64",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_wall_clock_02_seconds":
+			{
+				"Address": "0x82EE3608",
+				"Material": "mc/mtl_nt_2020_wall_clock_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_shotgun_shell":
+			{
+				"Address": "0x82EBD9C0",
+				"Material": "mc/mtl_fx_shotgun_shell",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pda_view":
+			{
+				"Address": "0x82EC2048",
+				"Material": "mc/mtl_t6_wpn_pda_screen",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_concussion_projectile":
+			{
+				"Address": "0x82EC4298",
+				"Material": "mc/mtl_t6_wpn_grenade_concussion",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_judge_world_lh":
+			{
+				"Address": "0x82EBD7D8",
+				"Material": "mc/mtl_t6_wpn_pistol_judge",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"nt_2020_robot_01":
+			{
+				"Address": "0x82EDE9C8",
+				"Material": "mc/color_black_shine",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_bcpu_world":
+			{
+				"Address": "0x82EB9708",
+				"Material": "mc/mtl_t6_attach_bcpu",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_dsr50_view":
+			{
+				"Address": "0x82EB99E4",
+				"Material": "mc/mtl_t6_wpn_sniper_dsr50",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"nt_2020_art_fork_01":
+			{
+				"Address": "0x82ED378C",
+				"Material": "mc/nt_2020_metal_chrome",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_64x64x10":
+			{
+				"Address": "0x82ECA894",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_ballista_view":
+			{
+				"Address": "0x82EBB1B8",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_wpn_tablet_view":
+			{
+				"Address": "0x82EC0D38",
+				"Material": "mc/mtl_t6_wpn_tablet",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_sa58_view":
+			{
+				"Address": "0x82EB6390",
+				"Material": "mc/mtl_t6_wpn_ar_sa58",
+				"numBones": "10",
+				"numRootBones": "1"
+				},
+			"collision_clip_cylinder_32x128":
+			{
+				"Address": "0x82EAD2B0",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_x95l_world":
+			{
+				"Address": "0x82EB70E8",
+				"Material": "mc/mtl_t6_wpn_ar_x95l_camo1",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"p6_geo_fountain_base":
+			{
+				"Address": "0x82ED8C60",
+				"Material": "mc/concrete_panel03_la2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_saiga_world":
+			{
+				"Address": "0x82EBDD90",
+				"Material": "mc/mtl_t6_wpn_shotty_saiga",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_turret_sentry_gun_red":
+			{
+				"Address": "0x82EC7DB0",
+				"Material": "mc/mtl_t6_wpn_turret_sentry_gun_base_red",
+				"numBones": "15",
+				"numRootBones": "1"
+				},
+			"nt_2020_moving_couch_01":
+			{
+				"Address": "0x82EE4548",
+				"Material": "mc/mtl_nt_2020_moving_couch_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_taser_mine_view":
+			{
+				"Address": "0x82EC438C",
+				"Material": "mc/mtl_t6_wpn_taser_mine",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"collision_clip_512x512x10":
+			{
+				"Address": "0x82EC9B3C",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fxanim_mp_nuked2025_sprinkler_mod":
+			{
+				"Address": "0x82EE4BF4",
+				"Material": "mc/railroadtrack_top",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"nt_2020_vista_bldg_07_support":
+			{
+				"Address": "0x82ED82D8",
+				"Material": "mc/metal_stainless_steel_editor",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"projectile_hellfire_missile":
+			{
+				"Address": "0x82EC5F30",
+				"Material": "mc/mtl_hellfire_missile_alpha",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"void":
+			{
+				"Address": "0x82EAC928",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_jun_fruit_apple":
+			{
+				"Address": "0x82EE0754",
+				"Material": "mc/mtl_p_jun_fruit_apple",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_hydro_shelf_holders":
+			{
+				"Address": "0x82EDD7AC",
+				"Material": "mc/nt_2020_pipes_ceramic_holes",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_crossbow_stow":
+			{
+				"Address": "0x82EBFDF8",
+				"Material": "mc/mtl_player_icon",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_supply_projectile":
+			{
+				"Address": "0x82EC11FC",
+				"Material": "mc/mtl_t6_wpn_grenade_supply",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_gl_gp25_world":
+			{
+				"Address": "0x82EB4510",
+				"Material": "mc/mtl_t6_attach_gl_gp25",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_reflex_view":
+			{
+				"Address": "0x82EB09F8",
+				"Material": "mc/mtl_t6_attach_optic_reflex_reticle",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_foliage_plants_flowers03":
+			{
+				"Address": "0x82ED1448",
+				"Material": "mc/t5_foliage_flowers03",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_smoke_projectile":
+			{
+				"Address": "0x82EC3728",
+				"Material": "mc/mtl_t6_wpn_grenade_smoke",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_sniper_svu_silencer_world":
+			{
+				"Address": "0x82EBAC00",
+				"Material": "mc/mtl_t6_wpn_sniper_svu_scope",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_cardboardbox_3":
+			{
+				"Address": "0x82EE1B58",
+				"Material": "mc/mtl_p_glo_cardboardbox",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_cardboardbox_4":
+			{
+				"Address": "0x82EE1C4C",
+				"Material": "mc/mtl_p_glo_cardboardbox",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_vzoom_svu_world":
+			{
+				"Address": "0x82EBADE8",
+				"Material": "mc/mtl_t6_attach_optic_vzoom_svu",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"viewmodel_hands_no_model":
+			{
+				"Address": "0x82EC00D4",
+				"Material": "mc/mtl_default",
+				"numBones": "70",
+				"numRootBones": "1"
+				},
+			"p_rus_hose_modular_connect_end":
+			{
+				"Address": "0x82EDE8D4",
+				"Material": "mc/mtl_p_rus_hose_fitting_end",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shotty_srm1216_world":
+			{
+				"Address": "0x82EBE348",
+				"Material": "mc/mtl_t6_wpn_shotty_srm1216_camo1",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"mlv/nt_vista_red_tent":
+			{
+				"Address": "0x82ED7FFC",
+				"Material": "mlv/mtl_nt_vista_red_tent",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_vista_kiosk_01":
+			{
+				"Address": "0x82ED930C",
+				"Material": "mc/metal_stainless_steel_editor",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_vista_kiosk_02":
+			{
+				"Address": "0x82EDB280",
+				"Material": "mc/zm_nuked_vinylsidings_white",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_vista_kiosk_04":
+			{
+				"Address": "0x82ED654C",
+				"Material": "mc/me_door_rollup1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pda_world":
+			{
+				"Address": "0x82EC213C",
+				"Material": "mc/mtl_t6_wpn_pda",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_storage_bin":
+			{
+				"Address": "0x82ED30E0",
+				"Material": "mc/mtl_nt_2020_storage_bin",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_nuketown_2020_car01_whole":
+			{
+				"Address": "0x82EE332C",
+				"Material": "mc/mtl_nt_2020_car_01_glass_out",
+				"numBones": "27",
+				"numRootBones": "1"
+				},
+			"p6_light_modern_sconce_off":
+			{
+				"Address": "0x82ED48B4",
+				"Material": "mc/metal_exterior_karma",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t5_weapon_scrambler_world_detect":
+			{
+				"Address": "0x82EE62D4",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_pencil":
+			{
+				"Address": "0x82ECC068",
+				"Material": "mc/mtl_p_rus_pencil",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"projectile_stinger_missile":
+			{
+				"Address": "0x82EC882C",
+				"Material": "mc/mtl_weapon_stinger_missle",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"fxanim_mp_nuked2025_carwash_hoses_mod":
+			{
+				"Address": "0x82EE4FC4",
+				"Material": "mc/mtl_nt_2020_car_wash_hoses",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_x95l_world":
+			{
+				"Address": "0x82EB74B8",
+				"Material": "mc/mtl_t6_wpn_ar_x95l_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_lmg_mk48_view":
+			{
+				"Address": "0x82EB84EC",
+				"Material": "mc/mtl_t6_wpn_lmg_mk48_camo1",
+				"numBones": "24",
+				"numRootBones": "1"
+				},
+			"p6_garage_pipes_t":
+			{
+				"Address": "0x82EDCE24",
+				"Material": "mc/mtl_p6_pipes_garage",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_female_02_arm_right":
+			{
+				"Address": "0x82EE2204",
+				"Material": "mc/mtl_nt_2020_manne_fem01_head1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fxuse_oneflag_flagbase_cylinder":
+			{
+				"Address": "0x82EAF130",
+				"Material": "mc/mtl_fxuse_oneflag_flagbase_cylinder",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_ballista_view":
+			{
+				"Address": "0x82EBB494",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_ar_silencer1_view":
+			{
+				"Address": "0x82EB4F8C",
+				"Material": "mc/mtl_t6_attach_ar_silencer1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_bouncing_betty_world_detect":
+			{
+				"Address": "0x82EC26F4",
+				"Material": "mc/mtl_t6_wpn_bouncing_betty_detect",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"com_pipe_4_coupling_ceramic":
+			{
+				"Address": "0x82EDD3DC",
+				"Material": "mc/mtl_pipes_ceramic",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"foliage_hedge_gumdrop_1":
+			{
+				"Address": "0x82ED8A78",
+				"Material": "mc/mtl_hedges_noshadow",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_flag_nuclear_01":
+			{
+				"Address": "0x82ED879C",
+				"Material": "mc/mtl_nt_2020_flag_nuclear_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_flag_nuclear_02":
+			{
+				"Address": "0x82ED8890",
+				"Material": "mc/mtl_nt_2020_flag_nuclear_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_car_wash_dish":
+			{
+				"Address": "0x82ECD654",
+				"Material": "mc/mtl_nt_2020_car_wash_dish",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_2020_vista_ufo_01":
+			{
+				"Address": "0x82ED81E4",
+				"Material": "mlv/mtl_nt_2020_vista_ufo",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_wall_256x256x10":
+			{
+				"Address": "0x82ECA3D0",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_mountain_desert_b":
+			{
+				"Address": "0x82ED7B38",
+				"Material": "mc/rus_dec_vista_mountains01_desert",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_supply_view":
+			{
+				"Address": "0x82EC13E4",
+				"Material": "mc/mtl_t6_wpn_grenade_supply",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_msmc_world":
+			{
+				"Address": "0x82EB2F24",
+				"Material": "mc/mtl_t6_wpn_smg_msmc_camo1",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shotty_ksg_world":
+			{
+				"Address": "0x82EBE530",
+				"Material": "mc/mtl_t6_wpn_shotty_ksg_camo1",
+				"numBones": "6",
+				"numRootBones": "1"
+				},
+			"nt_nuketown_sign":
+			{
+				"Address": "0x82ED7768",
+				"Material": "mc/mtl_nt_nuketown_sign",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_house_04_section":
+			{
+				"Address": "0x82ED9E7C",
+				"Material": "mc/glass_clear_wall_opaque_white",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_express_train_track_a01_flip":
+			{
+				"Address": "0x82EADE20",
+				"Material": "mc/metal_aircraft_catapult_strip",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_air_v78_vtol_killstreak_alt":
+			{
+				"Address": "0x82EC6300",
+				"Material": "mc/mtl_veh_t6_v78_vtol_enemy",
+				"numBones": "76",
+				"numRootBones": "1"
+				},
+			"fx_shotgun_shell_blur":
+			{
+				"Address": "0x82EBDAB4",
+				"Material": "mc/mtl_fx_shotgun_shell_alpha",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_jun_bench_wood_02":
+			{
+				"Address": "0x82EDDC70",
+				"Material": "mc/mtl_p_jun_bench_wood_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_smg_chicom_view":
+			{
+				"Address": "0x82EB1938",
+				"Material": "mc/mtl_t6_attach_tritium_wht",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_male_01_d0":
+			{
+				"Address": "0x82ED6734",
+				"Material": "mc/mtl_nt_2020_manne_male01_jacket1",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"c_mul_mp_pmc_lmg_fb":
+			{
+				"Address": "0x82EE5D1C",
+				"Material": "mc/mtl_gen_eye_cornea",
+				"numBones": "102",
+				"numRootBones": "1"
+				},
+			"t6_attach_bcpu_view":
+			{
+				"Address": "0x82EB9614",
+				"Material": "mc/mtl_t6_attach_bcpu_ui3d",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_foliage_hedge_boxy01":
+			{
+				"Address": "0x82ED7E14",
+				"Material": "mc/mtl_p6_foliage_hedge2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_rooftop_overhang":
+			{
+				"Address": "0x82ED1260",
+				"Material": "mc/mtl_nt_rooftop_overhang",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_rangefinder_view":
+			{
+				"Address": "0x82EB071C",
+				"Material": "mc/mtl_t6_attach_optic_rangefinder_camo1",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_peacekeeper_world":
+			{
+				"Address": "0x82ECC15C",
+				"Material": "mc/mtl_t6_wpn_smg_peacekeeper",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_claymore_world":
+			{
+				"Address": "0x82EC1F54",
+				"Material": "mc/mtl_t6_wpn_claymore",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"collision_missile_32x32x128":
+			{
+				"Address": "0x82EAD95C",
+				"Material": "mc/global_invisible_missile_clip",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_frag_world":
+			{
+				"Address": "0x82EC18A8",
+				"Material": "mc/mtl_t6_wpn_grenade_frag",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_pent_manila_folder_2":
+			{
+				"Address": "0x82EE0E00",
+				"Material": "mc/mtl_p_pent_manila_folder",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_clock_table":
+			{
+				"Address": "0x82EE1788",
+				"Material": "mc/mtl_nt_2020_clock_table",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"projectile_s5rocket":
+			{
+				"Address": "0x82EC1108",
+				"Material": "mc/mtl_s5_rocket",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"mlv/nt_2020_cardboardbox":
+			{
+				"Address": "0x82ED71B0",
+				"Material": "mlv/mtl_nt_2020_cardboardbox",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_frag_projectile":
+			{
+				"Address": "0x82EC199C",
+				"Material": "mc/mtl_t6_wpn_grenade_frag",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_male_01_arm_right":
+			{
+				"Address": "0x82EE2A98",
+				"Material": "mc/mtl_nt_2020_manne_male01_jacket1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_2020_recycling_bin":
+			{
+				"Address": "0x82ED523C",
+				"Material": "mlv/mtl_nt_2020_recycling_bin",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_wood_table":
+			{
+				"Address": "0x82ED2D10",
+				"Material": "mc/mtl_nt_2020_wood_table",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_smg_silencer2_world":
+			{
+				"Address": "0x82EB1844",
+				"Material": "mc/mtl_t6_attach_smg_silencer1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_mul_mp_pmc_sniper_fb":
+			{
+				"Address": "0x82EE60EC",
+				"Material": "mc/mtl_c_mul_mp_pmc_upperbody2",
+				"numBones": "102",
+				"numRootBones": "1"
+				},
+			"t6_attach_ar_silencer2_world":
+			{
+				"Address": "0x82EB3C7C",
+				"Material": "mc/mtl_t6_attach_ar_silencer1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_claymore_stow":
+			{
+				"Address": "0x82EC1E60",
+				"Material": "mc/mtl_t6_wpn_claymore",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_rifle_shell_blur":
+			{
+				"Address": "0x82EACC04",
+				"Material": "mc/mtl_fx_shell_alpha",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_vzoom_xpr50_world":
+			{
+				"Address": "0x82EB98F0",
+				"Material": "mc/mtl_t6_attach_optic_vzoom_xpr50",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"iw_ny_harbor_hwsign_02":
+			{
+				"Address": "0x82EDA710",
+				"Material": "mc/mtl_iw_ny_harbor_hwsign",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_3d_txt_levenim_frnt_gold_0":
+			{
+				"Address": "0x82ED1724",
+				"Material": "mc/dub_gold_shiny_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_3d_txt_levenim_frnt_gold_1":
+			{
+				"Address": "0x82ED0E90",
+				"Material": "mc/dub_gold_shiny_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_3d_txt_levenim_frnt_gold_2":
+			{
+				"Address": "0x82ED617C",
+				"Material": "mc/dub_gold_shiny_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_3d_txt_levenim_frnt_gold_3":
+			{
+				"Address": "0x82ED0F84",
+				"Material": "mc/dub_gold_shiny_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_3d_txt_levenim_frnt_gold_4":
+			{
+				"Address": "0x82ED1BE8",
+				"Material": "mc/dub_gold_shiny_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_planter01":
+			{
+				"Address": "0x82ECE77C",
+				"Material": "mc/mtl_nt_2020_planter01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_sculpture_01":
+			{
+				"Address": "0x82EE14AC",
+				"Material": "mc/mtl_nt_2020_sculpture_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_vista_barricade_01":
+			{
+				"Address": "0x82ED7A44",
+				"Material": "mc/mtl_nt_2020_street_gate_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_light_recessed_off":
+			{
+				"Address": "0x82ED153C",
+				"Material": "mc/nt_2020_brushed_metal",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_doorframe_black":
+			{
+				"Address": "0x82ECD378",
+				"Material": "mc/global_color_black_smooth",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_dishwasher_01":
+			{
+				"Address": "0x82ECEC40",
+				"Material": "mc/mtl_nt_2020_dishwasher_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_scavenger_pack_obj":
+			{
+				"Address": "0x82EC5E3C",
+				"Material": "mc/mtl_p_glo_scavenger_pack_01_obj",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_sa58_view":
+			{
+				"Address": "0x82EB6760",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"accessories_book_row03_paris":
+			{
+				"Address": "0x82ED2E04",
+				"Material": "mc/mtl_accessories_books",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_flag_france_01":
+			{
+				"Address": "0x82EDA8F8",
+				"Material": "mc/mtl_nt_2020_flags_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_dualband_world":
+			{
+				"Address": "0x82EB7D4C",
+				"Material": "mc/mtl_t6_attach_optic_dualband",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_dsr50_view":
+			{
+				"Address": "0x82EB9F9C",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"venetian_blind_white_open_128x96":
+			{
+				"Address": "0x82ED5F94",
+				"Material": "mc/mtl_plastic_windowshade_white",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_vzoom_dsr50_world":
+			{
+				"Address": "0x82EBA278",
+				"Material": "mc/mtl_t6_attach_optic_vzoom_dsr50",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_trophy_system_view":
+			{
+				"Address": "0x82EC29D0",
+				"Material": "mc/mtl_t6_wpn_trophy_system",
+				"numBones": "17",
+				"numRootBones": "1"
+				},
+			"nt_2020_yellow_chair":
+			{
+				"Address": "0x82ECDB18",
+				"Material": "mc/mtl_nt_2020_yellow_chair",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_concrete_fence_320_tall_dog":
+			{
+				"Address": "0x82EDED98",
+				"Material": "mlv/nt_2020_concrete_pattern_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_yellow_chair_reflection":
+			{
+				"Address": "0x82ECEA58",
+				"Material": "mc/mtl_nt_2020_yellow_chair",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_sa58_view":
+			{
+				"Address": "0x82EB6578",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"veh_iw_littlebird_minigun_left":
+			{
+				"Address": "0x82EE63C8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_pistol_fastmag_view":
+			{
+				"Address": "0x82EBBC34",
+				"Material": "mc/mtl_t6_attach_fastmag",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_ar_silencer4_view":
+			{
+				"Address": "0x82EB4604",
+				"Material": "mc/mtl_t6_attach_rus_silencer",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_reflex_world":
+			{
+				"Address": "0x82EB0AEC",
+				"Material": "mc/mtl_t6_attach_optic_reflex",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_hk416_view":
+			{
+				"Address": "0x82EB47EC",
+				"Material": "mc/mtl_t6_wpn_ar_hk416",
+				"numBones": "6",
+				"numRootBones": "1"
+				},
+			"nt_hydro_plant_red":
+			{
+				"Address": "0x82EDD5C4",
+				"Material": "mc/mtl_hydro_plant_red",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_kitchen_sink_faucet_nozzle":
+			{
+				"Address": "0x82EAFBAC",
+				"Material": "mc/brush_metal_panel_karma_matte",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_flag_neutral_carry":
+			{
+				"Address": "0x82EC4944",
+				"Material": "mc/mtl_flag_neutral",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_2020_vista_arch":
+			{
+				"Address": "0x82ED7C2C",
+				"Material": "mlv/plaster_whitewall_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_svu_view":
+			{
+				"Address": "0x82EBA648",
+				"Material": "mc/mtl_t6_wpn_sniper_svu",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"nt_2020_space_couch":
+			{
+				"Address": "0x82ECCCCC",
+				"Material": "mc/mtl_nt_2020_space_couch",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_fiveseven_view":
+			{
+				"Address": "0x82EBC4C8",
+				"Material": "mc/mtl_t6_wpn_pistol_fiveseven_camo1",
+				"numBones": "7",
+				"numRootBones": "1"
+				},
+			"collision_clip_32x32x10":
+			{
+				"Address": "0x82EC90C0",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_lamp_desk_on":
+			{
+				"Address": "0x82EAE5C0",
+				"Material": "mc/mtl_nt_2020_lamp_desk",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_xpr50_world":
+			{
+				"Address": "0x82EB8D80",
+				"Material": "mc/mtl_t6_wpn_sniper_xpr50",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_holo_ads":
+			{
+				"Address": "0x82EB034C",
+				"Material": "mc/mtl_t6_attach_optic_holo_reticle",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_svu_scope_view":
+			{
+				"Address": "0x82EBA554",
+				"Material": "mc/mtl_t6_wpn_sniper_svu_scope",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_flag_axis_1":
+			{
+				"Address": "0x82EC4FF0",
+				"Material": "mc/mtl_flag_axis_1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_flag_axis_2":
+			{
+				"Address": "0x82EC51D8",
+				"Material": "mc/mtl_flag_axis_2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_flag_axis_3":
+			{
+				"Address": "0x82EC53C0",
+				"Material": "mc/mtl_flag_axis_3",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_wall_meter_dest":
+			{
+				"Address": "0x82EE12C4",
+				"Material": "mc/mtl_nt_2020_wall_meter_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_frag_view":
+			{
+				"Address": "0x82EACA1C",
+				"Material": "mc/mtl_t6_wpn_grenade_frag",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"nt_2020_house_02_railing_01_section":
+			{
+				"Address": "0x82ED3698",
+				"Material": "mc/nt_2020_metal_brushed",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_rmr_world":
+			{
+				"Address": "0x82EBBF10",
+				"Material": "mc/mtl_t6_attach_optic_rmr",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_rangefinder_ads":
+			{
+				"Address": "0x82EB0810",
+				"Material": "mc/mtl_t6_attach_optic_rangefinder_camo1",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"mlv/nt_concrete_fence_256":
+			{
+				"Address": "0x82EDFBE4",
+				"Material": "mlv/nt_2020_concrete_pattern_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_an94_world":
+			{
+				"Address": "0x82EB3F58",
+				"Material": "mc/mtl_t6_wpn_ar_an94_camo1",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"p_glo_manhole02":
+			{
+				"Address": "0x82ED5DAC",
+				"Material": "mc/mtl_p_glo_manhole02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t5_weapon_equip_light_grn_unlit":
+			{
+				"Address": "0x82EC2F88",
+				"Material": "mc/mtl_t5_weapon_equip_light_grn_unlit",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_gl_m320_view":
+			{
+				"Address": "0x82EB39A0",
+				"Material": "mc/mtl_t6_attach_gl_m320",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_type95_world":
+			{
+				"Address": "0x82EB6B30",
+				"Material": "mc/mtl_t6_wpn_ar_type95",
+				"numBones": "6",
+				"numRootBones": "1"
+				},
+			"hjk_crash_airplane_cabinet_door_med":
+			{
+				"Address": "0x82ED4B90",
+				"Material": "mc/hjk_metal_trim",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_hydro_shed":
+			{
+				"Address": "0x82EDE6EC",
+				"Material": "mc/metal_corrugated_wide_bars",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_judge_view_lh":
+			{
+				"Address": "0x82EBD6E4",
+				"Material": "mc/mtl_clan_tag",
+				"numBones": "13",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_b2023r_view_lh":
+			{
+				"Address": "0x82EBD12C",
+				"Material": "mc/mtl_t6_attach_tritium_grn_glo",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"t6_wpn_minigun_view":
+			{
+				"Address": "0x82EB8AA4",
+				"Material": "mc/mtl_t6_wpn_minigun",
+				"numBones": "19",
+				"numRootBones": "1"
+				},
+			"veh_t6_drone_rcxd":
+			{
+				"Address": "0x82EC6D7C",
+				"Material": "mc/mtl_veh_t6_rcxd",
+				"numBones": "22",
+				"numRootBones": "1"
+				},
+			"nt_bench_retro":
+			{
+				"Address": "0x82ED3B5C",
+				"Material": "mc/mtl_nt_bench_retro",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"projectile_cbu97_clusterbomb":
+			{
+				"Address": "0x82EC0F20",
+				"Material": "mc/mtl_cbu97_clusterbomb",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_dsr50_world":
+			{
+				"Address": "0x82EB9AD8",
+				"Material": "mc/mtl_t6_wpn_sniper_dsr50",
+				"numBones": "6",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_kard_world_lh":
+			{
+				"Address": "0x82EBD5F0",
+				"Material": "mc/mtl_t6_wpn_pistol_kard",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"mlv/nt_2020_tour_bus":
+			{
+				"Address": "0x82ED70BC",
+				"Material": "mlv/mtl_nt_2020_tour_bus_body",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_mailbox_hoggatt":
+			{
+				"Address": "0x82ED6364",
+				"Material": "mc/mtl_nt_2020_mailbox_hoggatt",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_kitchen_sink_faucet_handles":
+			{
+				"Address": "0x82ECC250",
+				"Material": "mc/me_office_ceiling_tiles_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_la_sculpture_fountain_01":
+			{
+				"Address": "0x82ED8B6C",
+				"Material": "mc/metal_wall_brushed02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_nuketown_sign_base":
+			{
+				"Address": "0x82ED7674",
+				"Material": "mc/concrete_base02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_flag_china_01":
+			{
+				"Address": "0x82EDA9EC",
+				"Material": "mc/mtl_nt_2020_flags_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_glass_table":
+			{
+				"Address": "0x82ECFA8C",
+				"Material": "mc/mtl_nt_2020_glass_table",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_concrete_fence_320":
+			{
+				"Address": "0x82EDF350",
+				"Material": "mlv/nt_2020_concrete_pattern_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"weapon_m84_flashbang_grenade_burnt":
+			{
+				"Address": "0x82EC3BEC",
+				"Material": "mc/mtl_weapon_m84_burnt",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_hydro_plant_green":
+			{
+				"Address": "0x82EDD6B8",
+				"Material": "mc/mtl_hydro_plant_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_hk416_view":
+			{
+				"Address": "0x82EB4BBC",
+				"Material": "mc/mtl_t6_wpn_ar_hk416_camo2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_flag_axis_1_carry":
+			{
+				"Address": "0x82EC50E4",
+				"Material": "mc/mtl_flag_axis_1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_light_modern_sconce_on":
+			{
+				"Address": "0x82ECF7B0",
+				"Material": "mc/metal_exterior_karma",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_hydro_cabbage_holders":
+			{
+				"Address": "0x82EDD4D0",
+				"Material": "mc/nt_2020_pipes_ceramic_holes",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_type95_world":
+			{
+				"Address": "0x82EB6F00",
+				"Material": "mc/mtl_t6_wpn_ar_type95",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_type95_lmg_view":
+			{
+				"Address": "0x82EB797C",
+				"Material": "mc/mtl_t6_wpn_lmg_type95_drum",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t5_veh_rcbomb_gib_tire":
+			{
+				"Address": "0x82EC6F64",
+				"Material": "mc/mtl_t5_veh_rcbomb_allies",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_wall_clock_01_hours":
+			{
+				"Address": "0x82EE3ACC",
+				"Material": "mc/mtl_nt_2020_wall_clock_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_pak_food_sauce_01":
+			{
+				"Address": "0x82EE093C",
+				"Material": "mc/mtl_p6_yemen_canned_goods",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t5_weapon_equip_light_grn":
+			{
+				"Address": "0x82EC307C",
+				"Material": "mc/mtl_t5_weapon_equip_light_grn",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_electrical_pipes_short":
+			{
+				"Address": "0x82ECD930",
+				"Material": "mc/mtl_p_rus_pipes_modular",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_electrical_pipes_long":
+			{
+				"Address": "0x82ECD83C",
+				"Material": "mc/mtl_p_rus_pipes_modular",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_xpr50_view":
+			{
+				"Address": "0x82EB9244",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"mlv/nt_2020_car_wash_frame":
+			{
+				"Address": "0x82ECD46C",
+				"Material": "mlv/metal_yellow_trim_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_flashbang_world":
+			{
+				"Address": "0x82EC3A04",
+				"Material": "mc/mtl_t6_wpn_grenade_flashbang",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_flag_raven_01":
+			{
+				"Address": "0x82EDB468",
+				"Material": "mc/mtl_nt_2020_flags_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ballistic_knife_view":
+			{
+				"Address": "0x82EC0780",
+				"Material": "mc/mtl_t6_wpn_knife_base",
+				"numBones": "9",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_an94_world":
+			{
+				"Address": "0x82EB4328",
+				"Material": "mc/mtl_t6_wpn_ar_an94_camo2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_space_chair":
+			{
+				"Address": "0x82ECDA24",
+				"Material": "mc/mtl_nt_2020_space_chair",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"venetian_blind_white_128x96":
+			{
+				"Address": "0x82ED1818",
+				"Material": "mc/mtl_plastic_windowshade_white",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_car_wash_hoses":
+			{
+				"Address": "0x82ECD560",
+				"Material": "mc/mtl_nt_2020_car_wash_hoses",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_concrete_fence_straight_skinny":
+			{
+				"Address": "0x82EDECA4",
+				"Material": "mlv/nt_2020_concrete_pattern_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_anim_nautical_flag_01":
+			{
+				"Address": "0x82ED9D88",
+				"Material": "mc/mtl_p6_anim_nautical_flag_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_anim_nautical_flag_04":
+			{
+				"Address": "0x82ED9C94",
+				"Material": "mc/mtl_p6_anim_nautical_flag_04",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_512x512x10":
+			{
+				"Address": "0x82ECB034",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_64x64x10":
+			{
+				"Address": "0x82EC939C",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_mailbox_masonfirth":
+			{
+				"Address": "0x82ED785C",
+				"Material": "mc/mtl_nt_2020_mailbox_masonfirth",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"defaultvehicle":
+			{
+				"Address": "0x82EAC64C",
+				"Material": "mc/mtl_defaultvehicle",
+				"numBones": "23",
+				"numRootBones": "1"
+				},
+			"t6_wpn_smg_msmc_world":
+			{
+				"Address": "0x82EB2B54",
+				"Material": "mc/mtl_t6_wpn_smg_msmc_camo1",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"c_usa_mp_seal6_longsleeve_viewhands":
+			{
+				"Address": "0x82EE557C",
+				"Material": "mc/mtl_viewarm_usa_mp_seal6_longsleeve",
+				"numBones": "72",
+				"numRootBones": "1"
+				},
+			"com_potted_plant01":
+			{
+				"Address": "0x82ECE964",
+				"Material": "mc/mtl_potted_plant01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t5_veh_rcbomb_gib_large":
+			{
+				"Address": "0x82EC714C",
+				"Material": "mc/mtl_t5_veh_rcbomb_allies",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_2020_house_02_couch":
+			{
+				"Address": "0x82ED2294",
+				"Material": "mlv/mtl_nt_2020_house_02_couch",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_dbal_view":
+			{
+				"Address": "0x82EB0DC8",
+				"Material": "mc/mtl_t6_attach_dbal",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_grip_world":
+			{
+				"Address": "0x82EB1FE4",
+				"Material": "mc/mtl_t6_attach_grip",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_turret_sentry_gun_detect":
+			{
+				"Address": "0x82EC1014",
+				"Material": "mc/mtl_t6_wpn_turret_sentry_gun_base_detect",
+				"numBones": "15",
+				"numRootBones": "1"
+				},
+			"nt_2020_button_04_blue":
+			{
+				"Address": "0x82ED2940",
+				"Material": "mc/mtl_nt_2020_buttons",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_jun_fruit_bananas_single":
+			{
+				"Address": "0x82EE0848",
+				"Material": "mc/mtl_p_jun_fruit_bananas",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shotty_saiga_view":
+			{
+				"Address": "0x82EBD8CC",
+				"Material": "mc/mtl_t6_wpn_shotty_saiga",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"t6_wpn_lmg_hamr_world":
+			{
+				"Address": "0x82EB87C8",
+				"Material": "mc/mtl_t6_wpn_lmg_hamr_camo1",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"t6_attach_dbal_world":
+			{
+				"Address": "0x82EB0EBC",
+				"Material": "mc/mtl_t6_attach_dbal",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_wpn_c4_view":
+			{
+				"Address": "0x82EC2230",
+				"Material": "mc/mtl_t6_wpn_c4",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"ma_cup_single_closed_static":
+			{
+				"Address": "0x82ED6BF8",
+				"Material": "mc/mtl_cups",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_turret_ads_carry":
+			{
+				"Address": "0x82EC808C",
+				"Material": "mc/mtl_t6_wpn_turret_ads_yellow",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_type95_view":
+			{
+				"Address": "0x82EB6C24",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"veh_t6_drone_overwatch_dead_piece_1":
+			{
+				"Address": "0x82EC6AA0",
+				"Material": "mc/mtl_drone_overwatch_body_dark",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_drone_overwatch_dead_piece_2":
+			{
+				"Address": "0x82EC67C4",
+				"Material": "mc/mtl_drone_overwatch_body_dark",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_drone_overwatch_dead_piece_3":
+			{
+				"Address": "0x82EC69AC",
+				"Material": "mc/mtl_drone_overwatch_body_dark",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_supply_drop_detect":
+			{
+				"Address": "0x82EC79E0",
+				"Material": "mc/mtl_t6_wpn_supply_drop_detect",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"hjk_crash_airplane_cabinet_door_lrg":
+			{
+				"Address": "0x82ECD284",
+				"Material": "mc/hjk_metal_trim",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_flag_treyarch_01":
+			{
+				"Address": "0x82EDB55C",
+				"Material": "mc/mtl_nt_2020_flags_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_lmg_lsat_world":
+			{
+				"Address": "0x82EB83F8",
+				"Material": "mc/mtl_t6_wpn_lmg_lsat_ammo",
+				"numBones": "7",
+				"numRootBones": "1"
+				},
+			"nt_2020_dish_mug":
+			{
+				"Address": "0x82ECE2B8",
+				"Material": "mc/mtl_nt_2020_dish_mug_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_nuketown_2020_car02_whole":
+			{
+				"Address": "0x82EE3CB4",
+				"Material": "mc/mtl_nt_2020_car_02_exterior",
+				"numBones": "24",
+				"numRootBones": "1"
+				},
+			"mlv/nt_shelf_modern":
+			{
+				"Address": "0x82ECE4A0",
+				"Material": "mlv/mtl_nt_shelf_modern",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_2020_vista_kiosk_green":
+			{
+				"Address": "0x82EDC0CC",
+				"Material": "mlv/nt_2020_plastic_green",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_art_spoon_01":
+			{
+				"Address": "0x82ED3974",
+				"Material": "mc/nt_2020_metal_chrome",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_female_03_head":
+			{
+				"Address": "0x82EE22F8",
+				"Material": "mc/mtl_nt_2020_manne_fem01_head2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_air_a10f_alt":
+			{
+				"Address": "0x82EC8A14",
+				"Material": "mc/mtl_veh_t6_a10f_alt",
+				"numBones": "19",
+				"numRootBones": "1"
+				},
+			"fx_decal_burnt_paper2":
+			{
+				"Address": "0x82EE056C",
+				"Material": "mc/mtl_fx_decal_burnt_paper",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_decal_burnt_paper3":
+			{
+				"Address": "0x82EACFD4",
+				"Material": "mc/mtl_fx_decal_burnt_paper",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_vector_view":
+			{
+				"Address": "0x82EB1380",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_speedloader_view":
+			{
+				"Address": "0x82EBCA80",
+				"Material": "mc/mtl_t6_attach_speedloader",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"p6_industrial_tubing_01":
+			{
+				"Address": "0x82EDC590",
+				"Material": "mc/mtl_p6_industrial_tubing_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_smg_silencer1_view":
+			{
+				"Address": "0x82EB0BE0",
+				"Material": "mc/mtl_t6_attach_smg_silencer1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_pipes_90_blue":
+			{
+				"Address": "0x82EDE410",
+				"Material": "mc/mtl_nt_2020_pipes_modular_blue",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_sniper_silencer1_world":
+			{
+				"Address": "0x82EB9520",
+				"Material": "mc/mtl_t6_attach_sniper_silencer1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_flashbang_projectile":
+			{
+				"Address": "0x82EC3AF8",
+				"Material": "mc/mtl_t6_wpn_grenade_flashbang",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ballistic_knife_projectile":
+			{
+				"Address": "0x82EBFA28",
+				"Material": "mc/mtl_t6_wpn_ballistic_knife_camo1",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_wpn_turret_ads_carry_animate":
+			{
+				"Address": "0x82EC8180",
+				"Material": "mc/mtl_t6_wpn_turret_ads_yellow",
+				"numBones": "12",
+				"numRootBones": "1"
+				},
+			"t6_wpn_trophy_system_world_detect":
+			{
+				"Address": "0x82EC2600",
+				"Material": "mc/mtl_t6_wpn_trophy_system_detect",
+				"numBones": "17",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_ballista_world":
+			{
+				"Address": "0x82EBB3A0",
+				"Material": "mc/mtl_t6_wpn_sniper_ballista_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_generator_blue":
+			{
+				"Address": "0x82EE019C",
+				"Material": "mc/mtl_nt_generator_blue",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_usa_mp_seal6_smg_fb":
+			{
+				"Address": "0x82EE594C",
+				"Material": "mc/mtl_c_gen_insidemouth",
+				"numBones": "102",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_vzoom_ballista_world":
+			{
+				"Address": "0x82EBB958",
+				"Material": "mc/mtl_t6_attach_optic_vzoom_ballista",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"utility_lightbulb_bare_on":
+			{
+				"Address": "0x82ECCBD8",
+				"Material": "mc/mtl_utility_lightbulb_bare_off",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_combo_world":
+			{
+				"Address": "0x82EB38AC",
+				"Material": "mc/mtl_t6_attach_optic_combo",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt2020_sofa_pillow":
+			{
+				"Address": "0x82ED09CC",
+				"Material": "mc/mtl_dub_lounge_sofa_06_pillow",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shield_view":
+			{
+				"Address": "0x82EBF470",
+				"Material": "mc/mtl_t6_wpn_shield",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"t6_wpn_bouncing_betty_world":
+			{
+				"Address": "0x82EC344C",
+				"Material": "mc/mtl_t6_wpn_bouncing_betty",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"nt_2020_foliage_hedge_sphere":
+			{
+				"Address": "0x82EDFDCC",
+				"Material": "mc/mtl_p6_foliage_hedge_no_alpha",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_taser_mine_world_detect":
+			{
+				"Address": "0x82EC4574",
+				"Material": "mc/mtl_t6_wpn_taser_mine_detect",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"collision_clip_128x128x128":
+			{
+				"Address": "0x82EAD3A4",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_intercom":
+			{
+				"Address": "0x82ECB9BC",
+				"Material": "mc/mtl_nt_intercom",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_64x64x128":
+			{
+				"Address": "0x82ECAA7C",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_turret_sentry_gun":
+			{
+				"Address": "0x82EC7CBC",
+				"Material": "mc/mtl_t6_wpn_turret_sentry_gun_base",
+				"numBones": "15",
+				"numRootBones": "1"
+				},
+			"fxanim_mp_nuked2025_gate_sign02_mod":
+			{
+				"Address": "0x82EE4DDC",
+				"Material": "mc/mtl_nt_2020_street_gate_01",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"nt_2020_dish_02":
+			{
+				"Address": "0x82ECC344",
+				"Material": "mc/mtl_nt_2020_dishes_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_dish_03":
+			{
+				"Address": "0x82ECC52C",
+				"Material": "mc/mtl_nt_2020_dishes_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/p6_con_locker_door":
+			{
+				"Address": "0x82EAF03C",
+				"Material": "mlv/mtl_p6_con_locker_door",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_male_01_head":
+			{
+				"Address": "0x82EE28B0",
+				"Material": "mc/mtl_nt_2020_manne_male01_head1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_turret_ads_world":
+			{
+				"Address": "0x82EC7F98",
+				"Material": "mc/mtl_t6_wpn_turret_ads",
+				"numBones": "12",
+				"numRootBones": "1"
+				},
+			"veh_t6_drone_tank":
+			{
+				"Address": "0x82EC5B60",
+				"Material": "mc/mtl_veh_t6_asd_tread_left",
+				"numBones": "66",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_mp7_view":
+			{
+				"Address": "0x82EAFE88",
+				"Material": "mc/mtl_t6_wpn_smg_mp7_camo1",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_holo_view":
+			{
+				"Address": "0x82EB0258",
+				"Material": "mc/mtl_t6_attach_optic_holo_reticle",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"tag_microwavefx":
+			{
+				"Address": "0x82EC845C",
+				"Material": "mc/lambert1",
+				"numBones": "16",
+				"numRootBones": "1"
+				},
+			"collision_vehicle_32x32x10":
+			{
+				"Address": "0x82EE61E0",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"afr_curtain_rod":
+			{
+				"Address": "0x82EC381C",
+				"Material": "mc/metal_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_foliage_hedge_rounded01":
+			{
+				"Address": "0x82EDC86C",
+				"Material": "mc/mtl_p6_foliage_hedge_no_alpha",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_foliage_hedge_rounded02":
+			{
+				"Address": "0x82EDE7E0",
+				"Material": "mc/mtl_p6_foliage_hedge_no_alpha",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_garage_pipes_camera":
+			{
+				"Address": "0x82ECCDC0",
+				"Material": "mc/mtl_p6_pipes_garage_details",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_concrete_fence_post_tall02":
+			{
+				"Address": "0x82EDF538",
+				"Material": "mc/nt_conrete_fence_post",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_kard_view":
+			{
+				"Address": "0x82EBC6B0",
+				"Material": "mc/mtl_t6_wpn_pistol_kard",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"p6_pool_towel_unfolded_01":
+			{
+				"Address": "0x82ECC438",
+				"Material": "mc/mtl_p6_pool_lounge_chair_acc",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shield_view_red":
+			{
+				"Address": "0x82EBF564",
+				"Material": "mc/mtl_t6_wpn_shield_red",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"p6_nitrogen_tank_new":
+			{
+				"Address": "0x82EDC960",
+				"Material": "mc/mtl_p6_nitrogen_tank_new",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_female_01_d0":
+			{
+				"Address": "0x82ED6FC8",
+				"Material": "mc/mtl_nt_2020_manne_fem01_head1",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"t6_attach_ar_silencer3_world":
+			{
+				"Address": "0x82EB6948",
+				"Material": "mc/mtl_t6_attach_ar_silencer1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_lmg_type95_world":
+			{
+				"Address": "0x82EB7888",
+				"Material": "mc/mtl_t6_wpn_lmg_type95_drum",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"nt_hydro_cabbage_seedling":
+			{
+				"Address": "0x82EDCA54",
+				"Material": "mc/mtl_nt_hydro_cabbage_seedling",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_vista_flagpole_01":
+			{
+				"Address": "0x82EDA804",
+				"Material": "mc/nt_2020_metal_chrome",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_svu_view":
+			{
+				"Address": "0x82EBA924",
+				"Material": "mc/mtl_t6_wpn_sniper_svu",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_type95_world":
+			{
+				"Address": "0x82EB6D18",
+				"Material": "mc/mtl_t6_wpn_ar_type95_camo2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_dualband_mount_world":
+			{
+				"Address": "0x82EB7E40",
+				"Material": "mc/mtl_t6_attach_optic_dualband",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"german_shepherd":
+			{
+				"Address": "0x82EE1F28",
+				"Material": "mc/mtl_german_shepherd",
+				"numBones": "56",
+				"numRootBones": "1"
+				},
+			"ny_harbor_veh_civ_car_a_2":
+			{
+				"Address": "0x82EDA158",
+				"Material": "mc/mtl_ac_prs_vehicle_sheet_a",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ny_harbor_veh_civ_car_a_4":
+			{
+				"Address": "0x82EDA24C",
+				"Material": "mc/mtl_ac_prs_vehicle_sheet_a",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ny_harbor_veh_civ_car_a_6":
+			{
+				"Address": "0x82EDA340",
+				"Material": "mc/mtl_ac_prs_vehicle_sheet_a",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ny_harbor_veh_civ_car_a_7":
+			{
+				"Address": "0x82EDA434",
+				"Material": "mc/mtl_ac_prs_vehicle_sheet_a",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ny_harbor_veh_civ_car_a_8":
+			{
+				"Address": "0x82EDA528",
+				"Material": "mc/mtl_ac_prs_vehicle_sheet_a",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ny_harbor_veh_civ_car_a_9":
+			{
+				"Address": "0x82EDA61C",
+				"Material": "mc/mtl_ac_prs_vehicle_sheet_a",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_dsr50_scope_world":
+			{
+				"Address": "0x82EB9DB4",
+				"Material": "mc/mtl_t6_wpn_sniper_dsr50_scope",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"nt_2020_mattress_small":
+			{
+				"Address": "0x82ED2EF8",
+				"Material": "mc/mtl_p_rus_bedframe",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_launch_fhj18_view":
+			{
+				"Address": "0x82EBF0A0",
+				"Material": "mc/mtl_t6_wpn_launch_fhj18",
+				"numBones": "15",
+				"numRootBones": "1"
+				},
+			"nt_2020_house_02_curtains_01":
+			{
+				"Address": "0x82ED5CB8",
+				"Material": "mc/mtl_nt_2020_curtains_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"bathroom_towel_rack":
+			{
+				"Address": "0x82ECE0D0",
+				"Material": "mc/mtl_bathroom_chrome",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_drop_box_panel":
+			{
+				"Address": "0x82EC8B08",
+				"Material": "mc/mtl_t6_wpn_drop_box",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_drone_pegasus_mp":
+			{
+				"Address": "0x82EC8644",
+				"Material": "mc/mtl_veh_t6_pegasus_body",
+				"numBones": "30",
+				"numRootBones": "1"
+				},
+			"p6_industrial_toolbox_static":
+			{
+				"Address": "0x82ED5330",
+				"Material": "mc/mtl_p_test_karma_toolbox",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fxanim_mp_nuked2025_gate_sign03_mod":
+			{
+				"Address": "0x82EE4ED0",
+				"Material": "mc/mtl_nt_2020_street_gate_01",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_rangefinder_world":
+			{
+				"Address": "0x82EB0904",
+				"Material": "mc/mtl_t6_attach_optic_rangefinder_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_uav_radio_world":
+			{
+				"Address": "0x82EC0C44",
+				"Material": "mc/mtl_t6_wpn_uav_radio",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_shotgun_silencer2_view":
+			{
+				"Address": "0x82EB7F34",
+				"Material": "mc/mtl_t6_attach_shotgun_silencer1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_sign_numbers_small":
+			{
+				"Address": "0x82EE3DA8",
+				"Material": "mc/mtl_nt_2020_sign_numbers",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_duct_tape":
+			{
+				"Address": "0x82EE187C",
+				"Material": "mc/mtl_p_rus_duct_tape",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_house_02_cabinet_reflection":
+			{
+				"Address": "0x82ED3A68",
+				"Material": "mc/nt_2020_formica_cream_cabinet",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ma_cup_single_spilled":
+			{
+				"Address": "0x82ED6B04",
+				"Material": "mc/mtl_cups",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_flag_japan_01":
+			{
+				"Address": "0x82EDAFA4",
+				"Material": "mc/mtl_nt_2020_flags_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_xpr50_world":
+			{
+				"Address": "0x82EB9338",
+				"Material": "mc/mtl_t6_wpn_sniper_xpr50",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"nt_2020_vista_streetlight_01":
+			{
+				"Address": "0x82ED6640",
+				"Material": "mc/mtl_nt_2020_vista_streetlight_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_pistol_fastmag_world":
+			{
+				"Address": "0x82EBBD28",
+				"Material": "mc/mtl_t6_attach_fastmag",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_smoke_world":
+			{
+				"Address": "0x82EC3634",
+				"Material": "mc/mtl_t6_wpn_grenade_smoke",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_m32_ads":
+			{
+				"Address": "0x82EBEFAC",
+				"Material": "mc/mtl_t6_wpn_launch_m32",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_female_03_arm_right":
+			{
+				"Address": "0x82EE24E0",
+				"Material": "mc/mtl_nt_2020_manne_fem01_head2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_2020_robot_shed":
+			{
+				"Address": "0x82EDEABC",
+				"Material": "mlv/hjk_interior_plastic_tile",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_smg_mp7_view":
+			{
+				"Address": "0x82EAFAB8",
+				"Material": "mc/mtl_t6_attach_tritium_grn_glo",
+				"numBones": "11",
+				"numRootBones": "1"
+				},
+			"nt_trash_compactor_green":
+			{
+				"Address": "0x82ED0CA8",
+				"Material": "mc/mtl_nt_trash_compactor",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_xm8_view":
+			{
+				"Address": "0x82EB3018",
+				"Material": "mc/mtl_t6_wpn_ar_xm8",
+				"numBones": "9",
+				"numRootBones": "1"
+				},
+			"collision_mp_takeoff_solar_weap":
+			{
+				"Address": "0x82EADC38",
+				"Material": "mc/global_invisible_bullet_clip_brick",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"furniture_lawn_chair_1":
+			{
+				"Address": "0x82EDFAF0",
+				"Material": "mc/mtl_furniture_lawn_chair_1_metal",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_launch_fhj18_world":
+			{
+				"Address": "0x82EBF194",
+				"Material": "mc/mtl_t6_wpn_launch_fhj18",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_dualband_mount_view":
+			{
+				"Address": "0x82EB7C58",
+				"Material": "mc/mtl_t6_attach_optic_dualband",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_lmg_lsat_view":
+			{
+				"Address": "0x82EB8304",
+				"Material": "mc/mtl_t6_wpn_lmg_lsat_camo1",
+				"numBones": "28",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_dsr50_world":
+			{
+				"Address": "0x82EBA090",
+				"Material": "mc/mtl_t6_wpn_sniper_dsr50",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_wpn_launch_m32_view":
+			{
+				"Address": "0x82EBECD0",
+				"Material": "mc/mtl_t6_wpn_launch_m32",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"collision_nosight_wall_64x64x10":
+			{
+				"Address": "0x82EAD58C",
+				"Material": "mc/global_invisible_nosight_clip",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_pistol_silencer_view":
+			{
+				"Address": "0x82EBC004",
+				"Material": "mc/mtl_t6_attach_pistol_silencer",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"dest_electronic_outlet01_d0":
+			{
+				"Address": "0x82EE3BC0",
+				"Material": "mc/mtl_dest_jun_outlet03",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"nt_2020_foliage_hedge_boxy_2_set":
+			{
+				"Address": "0x82ED7F08",
+				"Material": "mc/mtl_p6_foliage_hedge2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_nuketown_2020_car01_clean":
+			{
+				"Address": "0x82EE4178",
+				"Material": "mc/mtl_nt_2020_car_01_glass_out",
+				"numBones": "25",
+				"numRootBones": "1"
+				},
+			"fx_char_gib_chunk_meat01":
+			{
+				"Address": "0x82EAF7DC",
+				"Material": "mc/mtl_fx_char_gib_chunks",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_char_gib_chunk_meat02":
+			{
+				"Address": "0x82ECBAB0",
+				"Material": "mc/mtl_fx_char_gib_chunks",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_us_parkingcone":
+			{
+				"Address": "0x82ED6A10",
+				"Material": "mc/mtl_p_us_parkingcone",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_2020_house_02_glass_exterior":
+			{
+				"Address": "0x82ED5700",
+				"Material": "mlv/hjk_interior_plastic_tile",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_drone_supply_alt":
+			{
+				"Address": "0x82EC66D0",
+				"Material": "mc/mtl_veh_t6_drone_supply_blade_spin",
+				"numBones": "30",
+				"numRootBones": "1"
+				},
+			"nt_2020_glass_sign_shelter":
+			{
+				"Address": "0x82EDF720",
+				"Material": "mc/nt_2020_metal_chrome",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_256x256x10":
+			{
+				"Address": "0x82EC9954",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_concussion_view":
+			{
+				"Address": "0x82EC40B0",
+				"Material": "mc/mtl_t6_wpn_grenade_concussion",
+				"numBones": "6",
+				"numRootBones": "1"
+				},
+			"t6_wpn_launch_usrpg_view":
+			{
+				"Address": "0x82EBE900",
+				"Material": "mc/mtl_t6_wpn_launch_usrpg",
+				"numBones": "13",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_female_05_d0":
+			{
+				"Address": "0x82EE2B8C",
+				"Material": "mc/mtl_nt_2020_manne_fem01_head2",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"t6_attach_wlp_world":
+			{
+				"Address": "0x82EBC2E0",
+				"Material": "mc/mtl_t6_attach_wlp",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"nt_2020_grill":
+			{
+				"Address": "0x82EDF074",
+				"Material": "mc/mp_b_laminate_blue",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_an94_view":
+			{
+				"Address": "0x82EB4234",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_briefcase_bomb_view":
+			{
+				"Address": "0x82EC5790",
+				"Material": "mc/mtl_t6_wpn_briefcase_bomb_keypad",
+				"numBones": "6",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_an94_view":
+			{
+				"Address": "0x82EB3E64",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "9",
+				"numRootBones": "1"
+				},
+			"p6_zm_nuked_table_art":
+			{
+				"Address": "0x82EE13B8",
+				"Material": "mc/mtl_p6_zm_nuked_table_art",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_kitchen_sink_double":
+			{
+				"Address": "0x82EAFCA0",
+				"Material": "mc/brush_metal_panel_karma_matte",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shield_carry_world":
+			{
+				"Address": "0x82EBF840",
+				"Material": "mc/mtl_t6_wpn_shield",
+				"numBones": "10",
+				"numRootBones": "1"
+				},
+			"t6_wpn_projectile_rpg7":
+			{
+				"Address": "0x82EBEBDC",
+				"Material": "mc/mtl_t6_wpn_launch_rpg7",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_vzoom_ballista_view":
+			{
+				"Address": "0x82EBB864",
+				"Material": "mc/mtl_t6_attach_optic_vzoom_ballista",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_manhole02_frame":
+			{
+				"Address": "0x82ED5EA0",
+				"Material": "mc/mtl_p_glo_manhole02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_civ_car_compact":
+			{
+				"Address": "0x82EAE3D8",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_radio_wall":
+			{
+				"Address": "0x82ECED34",
+				"Material": "mc/mtl_nt_tv_wall",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_lmg_hamr_view":
+			{
+				"Address": "0x82EB86D4",
+				"Material": "mc/mtl_t6_wpn_lmg_hamr_strap",
+				"numBones": "7",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_peacekeeper_view":
+			{
+				"Address": "0x82EAEE54",
+				"Material": "mc/mtl_t6_wpn_smg_peacekeeper",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"dest_rus_door_58_01_hinge_a_d0":
+			{
+				"Address": "0x82ECD748",
+				"Material": "mc/mtl_p_rus_door_metal_white",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_decal_burnt_paper":
+			{
+				"Address": "0x82EE0478",
+				"Material": "mc/mtl_fx_decal_burnt_paper",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_32x32x32":
+			{
+				"Address": "0x82ECA6AC",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_b2023r_view":
+			{
+				"Address": "0x82EBCD5C",
+				"Material": "mc/mtl_t6_attach_tritium_grn_glo",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_an94_view":
+			{
+				"Address": "0x82EB404C",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"projectile_m203grenade":
+			{
+				"Address": "0x82EB3D70",
+				"Material": "mc/mtl_weapon_m203_grenade",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_wpn_motion_sensor_world_detect":
+			{
+				"Address": "0x82EC250C",
+				"Material": "mc/mtl_t6_wpn_motion_sensor_detect",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_scorpion_world":
+			{
+				"Address": "0x82EB2784",
+				"Material": "mc/mtl_t6_wpn_smg_scorpion_camo4",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_xm8_view":
+			{
+				"Address": "0x82EB3200",
+				"Material": "mc/mtl_t6_wpn_ar_xm8",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"mp_nuketown_2020_vista_bldg_10":
+			{
+				"Address": "0x82ED98C4",
+				"Material": "mc/mp_m_vista_bldgs_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_nuketown_2020_vista_bldg_11":
+			{
+				"Address": "0x82ED99B8",
+				"Material": "mc/mp_m_vista_bldgs_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_street_gate_01":
+			{
+				"Address": "0x82ED7580",
+				"Material": "mc/mtl_nt_2020_street_gate_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_street_gate_02":
+			{
+				"Address": "0x82ED6270",
+				"Material": "mc/mtl_nt_2020_street_gate_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_street_gate_03":
+			{
+				"Address": "0x82ED7398",
+				"Material": "mc/mtl_nt_2020_street_gate_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_flag_australia_01":
+			{
+				"Address": "0x82EDB838",
+				"Material": "mc/mtl_nt_2020_flags_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_type05_lmg_world":
+			{
+				"Address": "0x82EB7A70",
+				"Material": "mc/mtl_t6_wpn_lmg_type95_drum",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_bedside_drawer":
+			{
+				"Address": "0x82ED0414",
+				"Material": "mc/mtl_nt_bedside_drawer",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_tv_wall":
+			{
+				"Address": "0x82ED0138",
+				"Material": "mc/mtl_nt_2020_screen_animated_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_supply_drop_axis":
+			{
+				"Address": "0x82EC78EC",
+				"Material": "mc/mtl_t6_wpn_supply_drop_axis",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_wall_clock_02_hours":
+			{
+				"Address": "0x82EE37F0",
+				"Material": "mc/mtl_nt_2020_wall_clock_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"berlin_patio_bench":
+			{
+				"Address": "0x82ED6ED4",
+				"Material": "mc/berlin_patio_tablechair",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_axis_createfx":
+			{
+				"Address": "0x82EAF5F4",
+				"Material": "mc/mtl_fx_axis_createfx",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_mailbox_woods":
+			{
+				"Address": "0x82EDF908",
+				"Material": "mc/mtl_nt_2020_mailbox_woods",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_pent_cords_4":
+			{
+				"Address": "0x82ECBD8C",
+				"Material": "mc/mtl_p_pent_cords",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_decal_character_blood":
+			{
+				"Address": "0x82EAF6E8",
+				"Material": "mc/mtl_fx_decal_character_blood",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_garage_pipes_1x128":
+			{
+				"Address": "0x82EDCD30",
+				"Material": "mc/mtl_p6_pipes_garage",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_door_raid_white":
+			{
+				"Address": "0x82ED1630",
+				"Material": "mc/metal_chrome_boat",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_uav_radio_view":
+			{
+				"Address": "0x82EC0B50",
+				"Material": "mc/mtl_t6_wpn_uav_radio",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"t6_wpn_smg_scorpion_view":
+			{
+				"Address": "0x82EB24A8",
+				"Material": "mc/mtl_t6_attach_tritium_red",
+				"numBones": "17",
+				"numRootBones": "1"
+				},
+			"collision_tvs_anchor_desk01":
+			{
+				"Address": "0x82EAD680",
+				"Material": "mc/global_invisible_bullet_clip_wood",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_pdw57_world":
+			{
+				"Address": "0x82EB23B4",
+				"Material": "mc/mtl_t6_wpn_smg_pdw57_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_ballista_world":
+			{
+				"Address": "0x82EBB588",
+				"Material": "mc/mtl_t6_wpn_sniper_ballista_camo1",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ballistic_knife_blade_retrieve":
+			{
+				"Address": "0x82EBFB1C",
+				"Material": "mc/mtl_t6_wpn_ballistic_knife_retrieve",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_hk416_grip_view":
+			{
+				"Address": "0x82EB4DA4",
+				"Material": "mc/mtl_t6_wpn_ar_hk416",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_peacekeeper_world":
+			{
+				"Address": "0x82ECBF74",
+				"Material": "mc/mtl_t6_wpn_smg_peacekeeper_camo4",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_wall_128x128x10":
+			{
+				"Address": "0x82ECB404",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_drone_hunterkiller_viewmodel":
+			{
+				"Address": "0x82EC15CC",
+				"Material": "mc/mat_veh_t6_drone_hunterkiller",
+				"numBones": "13",
+				"numRootBones": "1"
+				},
+			"berlin_com_light_ceiling_round_off":
+			{
+				"Address": "0x82ED1A00",
+				"Material": "mc/mtl_com_office_ceiling_light_1_off",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"nt_2020_remote_control_01":
+			{
+				"Address": "0x82EE1694",
+				"Material": "mc/mtl_nt_2020_remote_control_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_remote_control_02":
+			{
+				"Address": "0x82EE15A0",
+				"Material": "mc/mtl_nt_2020_remote_control_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ny_harbor_veh_civ_car_a_10":
+			{
+				"Address": "0x82ED9F70",
+				"Material": "mc/mtl_ac_prs_vehicle_sheet_a",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"ny_harbor_veh_civ_car_a_11":
+			{
+				"Address": "0x82EDA064",
+				"Material": "mc/mtl_ac_prs_vehicle_sheet_a",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_hatchet_world_retrieve":
+			{
+				"Address": "0x82EC068C",
+				"Material": "mc/mtl_t6_wpn_hatchet_retrieve",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t5_weapon_crossbow_bolt":
+			{
+				"Address": "0x82EC01C8",
+				"Material": "mc/mtl_t5_weapon_crossbow",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"p6_garage_pipes_90deg03":
+			{
+				"Address": "0x82EDD2E8",
+				"Material": "mc/mtl_p6_pipes_garage",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_ashtray_01":
+			{
+				"Address": "0x82EE0B24",
+				"Material": "mc/mtl_nt_2020_ashtray_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t5_weapon_crossbow_bolt_exp":
+			{
+				"Address": "0x82EBFEEC",
+				"Material": "mc/mtl_t5_weapon_crossbow",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"collision_clip_64x64x128":
+			{
+				"Address": "0x82EC9584",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_2020_house_01_balcony":
+			{
+				"Address": "0x82ECE688",
+				"Material": "mlv/glass_clear_mp_model",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_concrete_fence_128_tall":
+			{
+				"Address": "0x82EDFFB4",
+				"Material": "mlv/nt_2020_concrete_pattern_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_claymore_world_detect":
+			{
+				"Address": "0x82EC2DA0",
+				"Material": "mc/mtl_t6_wpn_claymore_detect",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_chicom_view":
+			{
+				"Address": "0x82EB1D08",
+				"Material": "mc/mtl_t6_wpn_smg_chicom_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_female_05_arm_left":
+			{
+				"Address": "0x82EE2D74",
+				"Material": "mc/mtl_nt_2020_manne_fem01_head2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fxanim_mp_nuked2025_dome_mod":
+			{
+				"Address": "0x82EE4CE8",
+				"Material": "mc/rus_art_metal_black_trim",
+				"numBones": "39",
+				"numRootBones": "1"
+				},
+			"nt_2020_books_row01":
+			{
+				"Address": "0x82ECC8FC",
+				"Material": "mc/mtl_nt_2020_books",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_books_row02":
+			{
+				"Address": "0x82ECC714",
+				"Material": "mc/mtl_nt_2020_books",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_books_row03":
+			{
+				"Address": "0x82ECC808",
+				"Material": "mc/mtl_nt_2020_books",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_air_vent":
+			{
+				"Address": "0x82EAE4CC",
+				"Material": "mc/paris_plaster_interiorwall_white",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_x95l_view":
+			{
+				"Address": "0x82EB6FF4",
+				"Material": "mc/mtl_t6_wpn_ar_x95l_camo3",
+				"numBones": "10",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_scar_world":
+			{
+				"Address": "0x82EB5450",
+				"Material": "mc/mtl_t6_wpn_ar_scarh_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_fridge":
+			{
+				"Address": "0x82ECDFDC",
+				"Material": "mc/mtl_nt_2020_fridge_body",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_hatchet_world":
+			{
+				"Address": "0x82EC0598",
+				"Material": "mc/mtl_t6_wpn_hatchet",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_wall_32x32x10":
+			{
+				"Address": "0x82ECB21C",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_lights_club_recessed_off":
+			{
+				"Address": "0x82ED20AC",
+				"Material": "mc/metal_wall_brushed",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_kard_world":
+			{
+				"Address": "0x82EBC7A4",
+				"Material": "mc/mtl_t6_wpn_pistol_kard",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_female_03_arm_left":
+			{
+				"Address": "0x82EE23EC",
+				"Material": "mc/mtl_nt_2020_manne_fem01_head2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_desk":
+			{
+				"Address": "0x82ECFB80",
+				"Material": "mc/mtl_nt_2020_desk",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_tree_ficus_lrg_01":
+			{
+				"Address": "0x82ED80F0",
+				"Material": "mlv/mtl_p6_tree_ficus_lrg_01_bark1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_ballista_scope_view":
+			{
+				"Address": "0x82EBB0C4",
+				"Material": "mc/mtl_t6_wpn_sniper_ballista_scope_camo1",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_mp7_view":
+			{
+				"Address": "0x82EB0070",
+				"Material": "mc/mtl_t6_wpn_smg_mp7_camo1",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"nt_2020_vista_kiosk_04_brown":
+			{
+				"Address": "0x82ED6458",
+				"Material": "mc/me_door_rollup1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_x95l_view":
+			{
+				"Address": "0x82EB71DC",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shotty_srm1216_view":
+			{
+				"Address": "0x82EBE254",
+				"Material": "mc/mtl_t6_attach_tritium_red",
+				"numBones": "7",
+				"numRootBones": "1"
+				},
+			"veh_t6_air_a10f":
+			{
+				"Address": "0x82EC8920",
+				"Material": "mc/mtl_veh_t6_a10f",
+				"numBones": "19",
+				"numRootBones": "1"
+				},
+			"nt_2020_light_fixture":
+			{
+				"Address": "0x82ECF998",
+				"Material": "mc/mtl_nt_2020_light_fixture",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"viewmodel_default":
+			{
+				"Address": "0x82EAC834",
+				"Material": "mc/mtl_test_sphere_silver_lores",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t6_attach_sniper_silencer2_world":
+			{
+				"Address": "0x82EBB770",
+				"Material": "mc/mtl_t6_attach_sniper_silencer1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_moving_chair_01":
+			{
+				"Address": "0x82EE3F90",
+				"Material": "mc/mtl_nt_2020_moving_chair_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_hamr_view":
+			{
+				"Address": "0x82EB88BC",
+				"Material": "mc/mtl_t6_wpn_lmg_hamr_parts",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_acog_view":
+			{
+				"Address": "0x82EB33E8",
+				"Material": "mc/mtl_t6_attach_optic_acog_reticle",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_dolly_01":
+			{
+				"Address": "0x82EE463C",
+				"Material": "mc/mtl_nt_2020_dolly_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_towel_kitchen_01":
+			{
+				"Address": "0x82ED33BC",
+				"Material": "mc/mtl_nt_2020_towel_kitchen_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_towel_kitchen_02":
+			{
+				"Address": "0x82ED34B0",
+				"Material": "mc/mtl_nt_2020_towel_kitchen_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_ar_silencer3_view":
+			{
+				"Address": "0x82EB629C",
+				"Material": "mc/mtl_t6_attach_ar_silencer1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_combo_view":
+			{
+				"Address": "0x82EB37B8",
+				"Material": "mc/mtl_t6_attach_optic_combo_reticle_up",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"defaultactor":
+			{
+				"Address": "0x82EAF224",
+				"Material": "mc/lambert1",
+				"numBones": "75",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shotty_870mcs_world":
+			{
+				"Address": "0x82EBE160",
+				"Material": "mc/mtl_t6_wpn_shotty_870mcs",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"fx_glass_piece01":
+			{
+				"Address": "0x82EAE6B4",
+				"Material": "mc/com_glass_shattered_outside",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_glass_piece02":
+			{
+				"Address": "0x82EAE7A8",
+				"Material": "mc/com_glass_shattered_outside",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shield_carry_world_detect":
+			{
+				"Address": "0x82EBF934",
+				"Material": "mc/mtl_t6_wpn_shield_detect",
+				"numBones": "10",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_hk416_world":
+			{
+				"Address": "0x82EB48E0",
+				"Material": "mc/mtl_t6_wpn_ar_hk416",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"projectile_at4":
+			{
+				"Address": "0x82EBF37C",
+				"Material": "mc/mtl_weapon_at4",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_wpn_knife_melee":
+			{
+				"Address": "0x82EBC3D4",
+				"Material": "mc/mtl_t6_wpn_knife_base",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"veh_t6_drone_supply":
+			{
+				"Address": "0x82EC65DC",
+				"Material": "mc/mtl_veh_t6_drone_supply_blade_spin",
+				"numBones": "30",
+				"numRootBones": "1"
+				},
+			"mp_flag_allies_1_carry":
+			{
+				"Address": "0x82EC4B2C",
+				"Material": "mc/mtl_flag_allies_1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_smoke_view":
+			{
+				"Address": "0x82EC3540",
+				"Material": "mc/mtl_t6_wpn_grenade_smoke",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"mlv/nt_2020_vista_kiosk_blue":
+			{
+				"Address": "0x82EDBDF0",
+				"Material": "mlv/nt_2020_plastic_blue",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_256x256x256":
+			{
+				"Address": "0x82ECAF40",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_doorknob1":
+			{
+				"Address": "0x82ED4020",
+				"Material": "mc/mtl_p_glo_doorknob",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_2020_vista_kiosk_yellow":
+			{
+				"Address": "0x82EDBFD8",
+				"Material": "mlv/nt_2020_plastic_yellow",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_drone_overwatch_dark":
+			{
+				"Address": "0x82EC64E8",
+				"Material": "mc/mtl_mh_6_little_bird_body",
+				"numBones": "45",
+				"numRootBones": "1"
+				},
+			"prop_suitcase_bomb":
+			{
+				"Address": "0x82EE4918",
+				"Material": "mc/mtl_t6_wpn_briefcase_bomb",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_flag_axis_2_carry":
+			{
+				"Address": "0x82EC52CC",
+				"Material": "mc/mtl_flag_axis_2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_sig556_view":
+			{
+				"Address": "0x82EB572C",
+				"Material": "mc/mtl_t6_wpn_ar_sig556_camo2",
+				"numBones": "7",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_saritch_view":
+			{
+				"Address": "0x82EB5CE4",
+				"Material": "mc/mtl_t6_wpn_ar_saritch",
+				"numBones": "6",
+				"numRootBones": "1"
+				},
+			"skybox_mp_nuketown2020":
+			{
+				"Address": "0x82EE52A0",
+				"Material": "mc/mtl_skybox_mp_nuketown2020",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_scar_view":
+			{
+				"Address": "0x82EB5544",
+				"Material": "mc/mtl_t6_wpn_ar_scarh_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_smg_scorpion_world":
+			{
+				"Address": "0x82EB259C",
+				"Material": "mc/mtl_player_icon_world",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"nt_kitchen_wall":
+			{
+				"Address": "0x82ED3E38",
+				"Material": "mc/mtl_nt_kitchen_wall",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_ar_silencer4_world":
+			{
+				"Address": "0x82EB46F8",
+				"Material": "mc/mtl_t6_attach_rus_silencer",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"weapon_us_smoke_grenade_burnt":
+			{
+				"Address": "0x82EACCF8",
+				"Material": "mc/mtl_us_smoke_grenade_burnt",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_svu_scope_world":
+			{
+				"Address": "0x82EBA73C",
+				"Material": "mc/mtl_t6_wpn_sniper_svu_scope",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_specter_view":
+			{
+				"Address": "0x82EB811C",
+				"Material": "mc/mtl_t6_attach_optic_specter",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_globe":
+			{
+				"Address": "0x82ED2A34",
+				"Material": "mc/mtl_nt_2020_globe_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_drone_hunterkiller":
+			{
+				"Address": "0x82EC16C0",
+				"Material": "mc/mat_veh_t6_drone_hunterkiller",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_scar_view":
+			{
+				"Address": "0x82EB535C",
+				"Material": "mc/mtl_t6_wpn_ar_scarh_camo1",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"c_mul_mp_pmc_assault_fb":
+			{
+				"Address": "0x82EE5B34",
+				"Material": "mc/mtl_gen_eye_cornea",
+				"numBones": "102",
+				"numRootBones": "1"
+				},
+			"veh_t6_engine_part1":
+			{
+				"Address": "0x82EE3514",
+				"Material": "mc/mtl_engine_destroy",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_flag_ethiopia_01":
+			{
+				"Address": "0x82EDACC8",
+				"Material": "mc/mtl_nt_2020_flags_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_engine_part3":
+			{
+				"Address": "0x82EE3420",
+				"Material": "mc/mtl_engine_destroy",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_crossbow_world":
+			{
+				"Address": "0x82EBFD04",
+				"Material": "mc/mtl_t6_wpn_crossbow",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"nt_hydro_lettuce_seedling":
+			{
+				"Address": "0x82EDCC3C",
+				"Material": "mc/mtl_nt_hydro_lettuce_seedling",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_foliage_hedge_boxy_3_set":
+			{
+				"Address": "0x82ED7D20",
+				"Material": "mc/mtl_p6_foliage_hedge2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_char_gib_chunk_fat":
+			{
+				"Address": "0x82EAF8D0",
+				"Material": "mc/mtl_fx_char_gib_chunks",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_cup_warmer_blue":
+			{
+				"Address": "0x82ED4F60",
+				"Material": "mc/mtl_nt_2020_cup_warmer_blue",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_bullet_chain_blur":
+			{
+				"Address": "0x82EB7794",
+				"Material": "mc/mtl_fx_bullet_chain_alpha",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_saritch_view":
+			{
+				"Address": "0x82EB60B4",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_chair_yellowgreen":
+			{
+				"Address": "0x82ED2570",
+				"Material": "mc/mtl_nt_2020_chair5_yellowgreen",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_tape_dispenser":
+			{
+				"Address": "0x82EE0D0C",
+				"Material": "mc/mtl_p_rus_tape_dispenser",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_vent_ext_round":
+			{
+				"Address": "0x82ECF2EC",
+				"Material": "mc/mtl_p_rus_vent_ext_round",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_rmr_view":
+			{
+				"Address": "0x82EAD0C8",
+				"Material": "mc/mtl_t6_attach_optic_rmr_reticle",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_nuked_townsign":
+			{
+				"Address": "0x82ED0320",
+				"Material": "mc/mtl_mp_nuked_townsign",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_scorpion_world":
+			{
+				"Address": "0x82EB296C",
+				"Material": "mc/mtl_t6_wpn_smg_scorpion_camo4",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_m32_view":
+			{
+				"Address": "0x82EBEEB8",
+				"Material": "mc/mtl_t6_wpn_launch_m32",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_acog_world":
+			{
+				"Address": "0x82EB34DC",
+				"Material": "mc/mtl_t6_attach_optic_acog",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_flag_england_01":
+			{
+				"Address": "0x82EDAEB0",
+				"Material": "mc/mtl_nt_2020_flags_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_hk416_world":
+			{
+				"Address": "0x82EB4CB0",
+				"Material": "mc/mtl_t6_wpn_ar_hk416_camo2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_flag_spain_01":
+			{
+				"Address": "0x82EDB744",
+				"Material": "mc/mtl_nt_2020_flags_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2025_chess_board":
+			{
+				"Address": "0x82ED1FB8",
+				"Material": "mc/mtl_nt_2025_chess_board",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"toy_honeybadger":
+			{
+				"Address": "0x82ED5BC4",
+				"Material": "mc/mtl_honeybadger_toy",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_pistol_silencer_world":
+			{
+				"Address": "0x82EBC0F8",
+				"Material": "mc/mtl_t6_attach_pistol_silencer",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"toy_alien":
+			{
+				"Address": "0x82ED07E4",
+				"Material": "mc/mtl_alien_toy",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_car_02":
+			{
+				"Address": "0x82ED31D4",
+				"Material": "mc/mtl_nt_2020_car_02_exterior",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_kitchen_light_01":
+			{
+				"Address": "0x82ECEF1C",
+				"Material": "mc/glass_frosted_lit",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_express_train_track_a01":
+			{
+				"Address": "0x82EADD2C",
+				"Material": "mc/metal_aircraft_catapult_strip",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_express_train_track_a02":
+			{
+				"Address": "0x82EADF14",
+				"Material": "mc/metal_aircraft_catapult_strip",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_express_train_track_a03":
+			{
+				"Address": "0x82EAE0FC",
+				"Material": "mc/metal_aircraft_catapult_strip",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_male_03_arm_right":
+			{
+				"Address": "0x82EE3238",
+				"Material": "mc/mtl_nt_2020_manne_male01_jacket1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_concrete_fence_100_tall":
+			{
+				"Address": "0x82EDDF4C",
+				"Material": "mlv/nt_2020_concrete_pattern_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_x95l_view":
+			{
+				"Address": "0x82EB73C4",
+				"Material": "mc/mtl_t6_wpn_ar_x95l_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_drone_rcxd_alt":
+			{
+				"Address": "0x82EC6E70",
+				"Material": "mc/mtl_veh_t6_rcxd_alt",
+				"numBones": "22",
+				"numRootBones": "1"
+				},
+			"collision_clip_wall_128x128x10":
+			{
+				"Address": "0x82ECA2DC",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_xm8_view":
+			{
+				"Address": "0x82EB35D0",
+				"Material": "mc/mtl_t6_wpn_ar_xm8",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_missile_256x256x10":
+			{
+				"Address": "0x82EAD498",
+				"Material": "mc/global_invisible_missile_clip",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_hydro_plate":
+			{
+				"Address": "0x82EDD8A0",
+				"Material": "mc/nt_2020_hydroponic_floor_holes",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_nuketown_2020_car02_clean":
+			{
+				"Address": "0x82EE4084",
+				"Material": "mc/mtl_nt_2020_car_02_exterior",
+				"numBones": "24",
+				"numRootBones": "1"
+				},
+			"pictureframe_painting_tall_11":
+			{
+				"Address": "0x82ED44E4",
+				"Material": "mc/mtl_pictureframes_painting_modern_set_1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"pictureframe_painting_tall_12":
+			{
+				"Address": "0x82ED45D8",
+				"Material": "mc/mtl_pictureframes_painting_modern_set_1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_flag_green":
+			{
+				"Address": "0x82EC55A8",
+				"Material": "mc/mtl_flag_green",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_sig556_view":
+			{
+				"Address": "0x82EB5AFC",
+				"Material": "mc/mtl_t6_wpn_ar_sig556_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_64x64x256":
+			{
+				"Address": "0x82ECAB70",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_2020_bed_fullsize_01":
+			{
+				"Address": "0x82ED0AC0",
+				"Material": "mlv/mtl_nt_2020_bed_fullsize_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_256x256x10":
+			{
+				"Address": "0x82ECAE4C",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_launch_m32_world":
+			{
+				"Address": "0x82EBEDC4",
+				"Material": "mc/mtl_t6_wpn_launch_m32",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_msmc_view":
+			{
+				"Address": "0x82EB2E30",
+				"Material": "mc/mtl_t6_wpn_smg_msmc_camo1",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_female_01_arm_left":
+			{
+				"Address": "0x82EE26C8",
+				"Material": "mc/mtl_nt_2020_manne_fem01_head1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_512x512x512":
+			{
+				"Address": "0x82ECB128",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_lights_club_recessed":
+			{
+				"Address": "0x82ED0508",
+				"Material": "mc/metal_wall_brushed",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_usa_mp_seal6_lmg_fb":
+			{
+				"Address": "0x82EE5670",
+				"Material": "mc/mtl_c_gen_insidemouth",
+				"numBones": "102",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_ballista_scope_world":
+			{
+				"Address": "0x82EBB2AC",
+				"Material": "mc/mtl_t6_wpn_sniper_ballista_scope_camo1",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shotty_ksg_view":
+			{
+				"Address": "0x82EBE43C",
+				"Material": "mc/mtl_t6_wpn_shotty_ksg_camo1",
+				"numBones": "7",
+				"numRootBones": "1"
+				},
+			"t6_attach_sniper_silencer2_view":
+			{
+				"Address": "0x82EBB67C",
+				"Material": "mc/mtl_t6_attach_sniper_silencer1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_tac_insert_view":
+			{
+				"Address": "0x82EC2BB8",
+				"Material": "mc/mtl_t6_wpn_tac_insert",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"soccer_ball_static":
+			{
+				"Address": "0x82ED5AD0",
+				"Material": "mc/mtl_soccer_ball",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_nuketown_sign_topper":
+			{
+				"Address": "0x82EE426C",
+				"Material": "mc/mtl_nt_nuketown_sign02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_house_01_cabinet":
+			{
+				"Address": "0x82ECE1C4",
+				"Material": "mc/nt_2020_formica_green",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_64x64x64":
+			{
+				"Address": "0x82ECA988",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_msmc_view":
+			{
+				"Address": "0x82EB2C48",
+				"Material": "mc/mtl_t6_wpn_smg_msmc_camo1",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_flashbang_view":
+			{
+				"Address": "0x82EC3910",
+				"Material": "mc/mtl_t6_wpn_grenade_flashbang",
+				"numBones": "6",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_fiveseven_world_lh":
+			{
+				"Address": "0x82EBD408",
+				"Material": "mc/mtl_t6_wpn_pistol_fiveseven_camo1",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_male_03_d0":
+			{
+				"Address": "0x82EE2F5C",
+				"Material": "mc/mtl_nt_2020_manne_male01_jacket1",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"t5_weapon_equip_light_red":
+			{
+				"Address": "0x82EC3264",
+				"Material": "mc/mtl_t5_weapon_equip_light_red",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_flag_germany_01":
+			{
+				"Address": "0x82EDADBC",
+				"Material": "mc/mtl_nt_2020_flags_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_32x32x32":
+			{
+				"Address": "0x82EC91B4",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_flag_egypt_01":
+			{
+				"Address": "0x82EDABD4",
+				"Material": "mc/mtl_nt_2020_flags_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_semtex_view":
+			{
+				"Address": "0x82EC1A90",
+				"Material": "mc/mtl_t6_wpn_grenade_semtex",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_mms_world":
+			{
+				"Address": "0x82EB0628",
+				"Material": "mc/mtl_t6_attach_optic_mms",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shield_pickup_world":
+			{
+				"Address": "0x82EBF658",
+				"Material": "mc/mtl_t6_wpn_shield",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t6_wpn_supply_drop_trap":
+			{
+				"Address": "0x82EC7BC8",
+				"Material": "mc/mtl_t6_wpn_supply_drop_trap",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_bag_spice":
+			{
+				"Address": "0x82EDC684",
+				"Material": "mc/mtl_p6_bag_spice",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_rag_doll_blond":
+			{
+				"Address": "0x82ED4D78",
+				"Material": "mc/mtl_p6_rag_dolls",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_smg_peacekeeper_view":
+			{
+				"Address": "0x82EAEC6C",
+				"Material": "mc/mtl_t6_wpn_smg_peacekeeper",
+				"numBones": "10",
+				"numRootBones": "1"
+				},
+			"p_us_restaurant_plate":
+			{
+				"Address": "0x82ED4208",
+				"Material": "mc/mtl_p_us_restaurant_plate",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_wlp_view":
+			{
+				"Address": "0x82EBC1EC",
+				"Material": "mc/mtl_t6_attach_wlp",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"nt_2020_hifi_shelf":
+			{
+				"Address": "0x82ECFC74",
+				"Material": "mc/mtl_nt_2020_hifi_shelf",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_house_02_balcony":
+			{
+				"Address": "0x82ED49A8",
+				"Material": "mc/glass_clear_mp_model",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_light_modern":
+			{
+				"Address": "0x82ECFE5C",
+				"Material": "mc/mtl_nt_2020_light_modern",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_xpr50_world":
+			{
+				"Address": "0x82EB9150",
+				"Material": "mc/mtl_t6_wpn_sniper_xpr50",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_civ_car_compact_grey":
+			{
+				"Address": "0x82EAE990",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_air_fa38_killstreak_alt":
+			{
+				"Address": "0x82EC8CF0",
+				"Material": "mc/mtl_veh_t6_air_fa38_cockpit_low",
+				"numBones": "90",
+				"numRootBones": "1"
+				},
+			"collision_physics_wall_64x64x10":
+			{
+				"Address": "0x82ECB310",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_concrete_fence_256_tall":
+			{
+				"Address": "0x82EDE134",
+				"Material": "mlv/nt_2020_concrete_pattern_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_drone_quad_rotor_dead_rotor":
+			{
+				"Address": "0x82EC7704",
+				"Material": "mc/mtl_t6_veh_drone_quad_rotor_body_dest",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"projectile_sidewinder_missile":
+			{
+				"Address": "0x82EC8550",
+				"Material": "mc/mtl_sidewinder_missile",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_mms_view":
+			{
+				"Address": "0x82EB0534",
+				"Material": "mc/mtl_t6_attach_optic_mms_display",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"dub_lounge_table_03":
+			{
+				"Address": "0x82ECC620",
+				"Material": "mc/mtl_dub_lounge_table_01_metal",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_garage_pipes_sprinkler":
+			{
+				"Address": "0x82EE50B8",
+				"Material": "mc/mtl_p6_pipes_garage",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_launch_fhj18_stow":
+			{
+				"Address": "0x82EBF288",
+				"Material": "mc/mtl_t6_wpn_launch_fhj18",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_mul_mp_pmc_shotgun_fb":
+			{
+				"Address": "0x82EE5E10",
+				"Material": "mc/mtl_gen_eye_cornea",
+				"numBones": "102",
+				"numRootBones": "1"
+				},
+			"p_glo_books_single":
+			{
+				"Address": "0x82EE0A30",
+				"Material": "mc/mtl_p_glo_books",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_pipes_group_blue":
+			{
+				"Address": "0x82EDE504",
+				"Material": "mc/mtl_nt_2020_pipes_modular_blue",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t5_foliage_hedge_boxy01":
+			{
+				"Address": "0x82ED9400",
+				"Material": "mc/mtl_p6_foliage_hedge2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_dsr50_world":
+			{
+				"Address": "0x82EB9EA8",
+				"Material": "mc/mtl_t6_wpn_sniper_dsr50",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_concrete_fence_156_tall":
+			{
+				"Address": "0x82EDEF80",
+				"Material": "mlv/nt_2020_concrete_pattern_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_wall_art_prop_02":
+			{
+				"Address": "0x82ECFF50",
+				"Material": "mc/mtl_nt_2020_wall_art_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_wall_art_prop_03":
+			{
+				"Address": "0x82ED0044",
+				"Material": "mc/mtl_nt_2020_wall_art_03",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_wall_art_prop_04":
+			{
+				"Address": "0x82ECF1F8",
+				"Material": "mc/lambert1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_fiveseven_world":
+			{
+				"Address": "0x82EBC5BC",
+				"Material": "mc/mtl_t6_wpn_pistol_fiveseven_camo1",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"collision_physics_wall_512x512x10":
+			{
+				"Address": "0x82ECB5EC",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_vector_view":
+			{
+				"Address": "0x82EB1198",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_saiga_view":
+			{
+				"Address": "0x82EBDC9C",
+				"Material": "mc/mtl_t6_wpn_shotty_saiga",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_female_05_head":
+			{
+				"Address": "0x82EE2C80",
+				"Material": "mc/mtl_nt_2020_manne_fem01_head2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_saritch_view":
+			{
+				"Address": "0x82EB5ECC",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_wpn_c4_stow":
+			{
+				"Address": "0x82EC2418",
+				"Material": "mc/mtl_t6_wpn_c4",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_turret_ads_carry_red":
+			{
+				"Address": "0x82EC8368",
+				"Material": "mc/mtl_t6_wpn_turret_ads_red",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fxanim_mp_nuked2025_display_glass_mod":
+			{
+				"Address": "0x82EE4454",
+				"Material": "mc/nt_2020_signs_glass_06",
+				"numBones": "34",
+				"numRootBones": "1"
+				},
+			"foliage_gardenflowers_red_group":
+			{
+				"Address": "0x82ED5054",
+				"Material": "mc/mtl_gardenflowers",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_gl_gp25_view":
+			{
+				"Address": "0x82EB441C",
+				"Material": "mc/mtl_t6_attach_gl_gp25",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_holo_world":
+			{
+				"Address": "0x82EB0440",
+				"Material": "mc/mtl_t6_attach_optic_holo",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_hydro_courtyard":
+			{
+				"Address": "0x82EDD994",
+				"Material": "mc/mtl_nt_hydro_cabbage_holders",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_lava_lamp_01":
+			{
+				"Address": "0x82ECF4D4",
+				"Material": "mc/mtl_nt_2020_lava_lamp_01_chrome",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_books_row01":
+			{
+				"Address": "0x82ECDD00",
+				"Material": "mc/mtl_p_glo_books",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"dub_flower_vase_dp12":
+			{
+				"Address": "0x82ED4114",
+				"Material": "mc/mtl_dub_flower_vase_01_flwr",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_books_row02":
+			{
+				"Address": "0x82ECDDF4",
+				"Material": "mc/mtl_p_glo_books",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_books_row03":
+			{
+				"Address": "0x82ECDC0C",
+				"Material": "mc/mtl_p_glo_books",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ballistic_knife_world":
+			{
+				"Address": "0x82EC0874",
+				"Material": "mc/mtl_t6_wpn_ballistic_knife_camo1",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t6_attach_shotgun_silencer1_view":
+			{
+				"Address": "0x82EBCB74",
+				"Material": "mc/mtl_t6_attach_shotgun_silencer1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_specter_world":
+			{
+				"Address": "0x82EB8210",
+				"Material": "mc/mtl_t6_attach_optic_specter",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_gl_m320_world":
+			{
+				"Address": "0x82EB3A94",
+				"Material": "mc/mtl_t6_attach_gl_m320",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_wpn_crossbow_view":
+			{
+				"Address": "0x82EBFC10",
+				"Material": "mc/mtl_t6_wpn_crossbow",
+				"numBones": "26",
+				"numRootBones": "1"
+				},
+			"nt_2020_vista_sign_01":
+			{
+				"Address": "0x82ED96DC",
+				"Material": "mc/us_art_wall_vinylsiding_white",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_grip_vector_view":
+			{
+				"Address": "0x82EB1568",
+				"Material": "mc/mtl_t6_attach_grip_vector",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_vehicle_128x128x128":
+			{
+				"Address": "0x82EE0660",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_drone_overwatch_light":
+			{
+				"Address": "0x82EC63F4",
+				"Material": "mc/mtl_mh_6_little_bird_body",
+				"numBones": "45",
+				"numRootBones": "1"
+				},
+			"paris_kitchen_shelf_short":
+			{
+				"Address": "0x82ECD190",
+				"Material": "mc/mtl_paris_ktichen_shelf",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_dogtags_friend":
+			{
+				"Address": "0x82EC5A6C",
+				"Material": "mc/mtl_p6_dogtags_friend",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_tac_insert_world":
+			{
+				"Address": "0x82EC28DC",
+				"Material": "mc/mtl_t6_wpn_tac_insert",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t5_veh_rcbomb_gib_med":
+			{
+				"Address": "0x82EC7240",
+				"Material": "mc/mtl_t5_veh_rcbomb_allies",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_house_01_cabinet_reflection":
+			{
+				"Address": "0x82ECEB4C",
+				"Material": "mc/nt_2020_formica_green",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_flag_allies_2_carry":
+			{
+				"Address": "0x82EC4D14",
+				"Material": "mc/mtl_flag_allies_2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_modern_desk":
+			{
+				"Address": "0x82ED247C",
+				"Material": "mc/mtl_nt_2020_modern_desk",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_male_03_head":
+			{
+				"Address": "0x82EE3050",
+				"Material": "mc/mtl_nt_2020_manne_male01_head1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_c4_world":
+			{
+				"Address": "0x82EC2324",
+				"Material": "mc/mtl_t6_wpn_c4",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"p_pent_coffeemug":
+			{
+				"Address": "0x82ECE3AC",
+				"Material": "mc/mtl_p_pent_coffeemug",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_female_02_head":
+			{
+				"Address": "0x82EE201C",
+				"Material": "mc/mtl_nt_2020_manne_fem01_head1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_bomb_stack_d":
+			{
+				"Address": "0x82EE4B00",
+				"Material": "mc/mtl_p_glo_bomb_stack_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_smg_msmc_view":
+			{
+				"Address": "0x82EB2A60",
+				"Material": "mc/mtl_t6_wpn_smg_msmc_camo1",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"t6_wpn_tablet_world":
+			{
+				"Address": "0x82EC0E2C",
+				"Material": "mc/mtl_t6_wpn_tablet",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_2020_vista_kiosk_red":
+			{
+				"Address": "0x82EDBEE4",
+				"Material": "mlv/mtl_nt_2020_plastic_red_roof",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_xpr50_scope_world":
+			{
+				"Address": "0x82EB905C",
+				"Material": "mc/mtl_t6_wpn_sniper_xpr50_scope",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p6_express_train_track_b01":
+			{
+				"Address": "0x82EAE1F0",
+				"Material": "mc/metal_aircraft_catapult_strip",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t5_weapon_camera_head_world":
+			{
+				"Address": "0x82EAF9C4",
+				"Material": "mc/mtl_t5_weapon_camera_spike",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"nt_2020_mailbox_mason":
+			{
+				"Address": "0x82EDF9FC",
+				"Material": "mc/mtl_nt_2020_mailbox_mason",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_pistol_shell_blur":
+			{
+				"Address": "0x82EACEE0",
+				"Material": "mc/mtl_fx_shell_alpha",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_flag_axis_3_carry":
+			{
+				"Address": "0x82EC54B4",
+				"Material": "mc/mtl_flag_axis_3",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_wall_meter_01":
+			{
+				"Address": "0x82EE0FE8",
+				"Material": "mc/mtl_nt_2020_wall_meter_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_shuffleboard_puck_01":
+			{
+				"Address": "0x82EE1E34",
+				"Material": "mc/mtl_nt_2020_shuffleboard_puck_white",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_shuffleboard_puck_02":
+			{
+				"Address": "0x82EE1D40",
+				"Material": "mc/mtl_nt_2020_shuffleboard_puck",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_nuketown_2020_vista_bldg_01":
+			{
+				"Address": "0x82ED94F4",
+				"Material": "mc/mp_m_vista_bldgs_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_nuketown_2020_vista_bldg_02":
+			{
+				"Address": "0x82ED84C0",
+				"Material": "mc/mp_m_vista_bldgs_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_nuketown_2020_vista_bldg_03":
+			{
+				"Address": "0x82ED83CC",
+				"Material": "mc/mp_m_vista_bldgs_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_nuketown_2020_vista_bldg_04":
+			{
+				"Address": "0x82ED95E8",
+				"Material": "mc/mp_m_vista_bldgs_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_nuketown_2020_vista_bldg_05":
+			{
+				"Address": "0x82ED86A8",
+				"Material": "mc/mp_m_vista_bldgs_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_nuketown_2020_vista_bldg_06":
+			{
+				"Address": "0x82ED9AAC",
+				"Material": "mc/mp_m_vista_bldgs_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_nuketown_2020_vista_bldg_07":
+			{
+				"Address": "0x82ED85B4",
+				"Material": "mc/mp_m_vista_bldgs_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_nuketown_2020_vista_bldg_08":
+			{
+				"Address": "0x82ED9BA0",
+				"Material": "mc/mp_m_vista_bldgs_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_nuketown_2020_vista_bldg_09":
+			{
+				"Address": "0x82ED97D0",
+				"Material": "mc/mp_m_vista_bldgs_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_jun_plate_dine":
+			{
+				"Address": "0x82ED1EC4",
+				"Material": "mc/mtl_p_jun_dinnerware",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"defaultweapon":
+			{
+				"Address": "0x82EAC740",
+				"Material": "mc/lambert1",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ballistic_knife_blade_view":
+			{
+				"Address": "0x82EC0A5C",
+				"Material": "mc/mtl_t6_wpn_ballistic_knife_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"dub_rest_vase_alone":
+			{
+				"Address": "0x82ED43F0",
+				"Material": "mc/mtl_vase",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_kitchen_table":
+			{
+				"Address": "0x82ED3D44",
+				"Material": "mc/mtl_nt_kitchen_table",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_flag_usa_01":
+			{
+				"Address": "0x82EDB374",
+				"Material": "mc/mtl_nt_2020_flags_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_fnp45_world":
+			{
+				"Address": "0x82EBBB40",
+				"Material": "mc/mtl_t6_wpn_pistol_fnp45",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t6_wpn_lmg_type95_view":
+			{
+				"Address": "0x82EB75AC",
+				"Material": "mc/mtl_t6_wpn_lmg_type95_camo1",
+				"numBones": "9",
+				"numRootBones": "1"
+				},
+			"veh_t6_drone_quad_rotor_mp":
+			{
+				"Address": "0x82EC7334",
+				"Material": "mc/mtl_t6_veh_drone_quad_rotor_blades",
+				"numBones": "29",
+				"numRootBones": "1"
+				},
+			"t6_wpn_launch_usrpg_world":
+			{
+				"Address": "0x82EBE9F4",
+				"Material": "mc/mtl_t6_wpn_launch_usrpg",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"collision_clip_64x64x256":
+			{
+				"Address": "0x82EC9678",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_mp7_world":
+			{
+				"Address": "0x82EB0164",
+				"Material": "mc/mtl_t6_wpn_smg_mp7_camo1",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_chicom_view":
+			{
+				"Address": "0x82EB1B20",
+				"Material": "mc/mtl_t6_wpn_smg_chicom_camo1",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_pdw57_view":
+			{
+				"Address": "0x82EB22C0",
+				"Material": "mc/mtl_t6_wpn_smg_pdw57_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_slums_curved_wall":
+			{
+				"Address": "0x82EAD774",
+				"Material": "mc/global_invisible_missile_clip",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_chicom_world":
+			{
+				"Address": "0x82EB1DFC",
+				"Material": "mc/mtl_t6_wpn_smg_chicom_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_concrete_fence_straight_tall":
+			{
+				"Address": "0x82EDFEC0",
+				"Material": "mlv/nt_2020_concrete_pattern_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_house_02_cabinet":
+			{
+				"Address": "0x82ED32C8",
+				"Material": "mc/nt_2020_formica_cream_cabinet",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_bedroom_stand":
+			{
+				"Address": "0x82ECE594",
+				"Material": "mc/glass_clear_mp",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_grip_view":
+			{
+				"Address": "0x82EB1EF0",
+				"Material": "mc/mtl_t6_attach_grip",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_smg_pdw57_world":
+			{
+				"Address": "0x82EB21CC",
+				"Material": "mc/mtl_t6_wpn_smg_pdw57_camo1",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"mp_flag_red":
+			{
+				"Address": "0x82EC569C",
+				"Material": "mc/mtl_flag_red",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_mp7_world":
+			{
+				"Address": "0x82EAFF7C",
+				"Material": "mc/mtl_t6_wpn_smg_mp7_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_light_sculpture":
+			{
+				"Address": "0x82ECF6BC",
+				"Material": "mc/dub_gold_shiny_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shield_stow_world":
+			{
+				"Address": "0x82EBF74C",
+				"Material": "mc/mtl_t6_wpn_shield",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_scar_world":
+			{
+				"Address": "0x82EB5638",
+				"Material": "mc/mtl_t6_wpn_ar_scarh_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_sign_population_vcs":
+			{
+				"Address": "0x82EE5394",
+				"Material": "mc/mtl_nt_sign_population",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_shuffleboard_puck_stick":
+			{
+				"Address": "0x82EDF62C",
+				"Material": "mc/mtl_nt_2020_puck_stick",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_male_03_arm_left":
+			{
+				"Address": "0x82EE3144",
+				"Material": "mc/mtl_nt_2020_manne_male01_jacket1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_flower_red2":
+			{
+				"Address": "0x82EDD00C",
+				"Material": "mc/mtl_plastic_bucket_soil",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_ballista_world":
+			{
+				"Address": "0x82EBAFD0",
+				"Material": "mc/mtl_t6_wpn_sniper_ballista_camo1",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_xm8_world":
+			{
+				"Address": "0x82EB310C",
+				"Material": "mc/mtl_t6_wpn_ar_xm8",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"t6_wpn_motion_sensor_world":
+			{
+				"Address": "0x82EC3FBC",
+				"Material": "mc/mtl_t6_wpn_motion_sensor",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"nt_2020_food_dispenser_blue":
+			{
+				"Address": "0x82ED3C50",
+				"Material": "mc/lambert1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_swing_set":
+			{
+				"Address": "0x82EDF814",
+				"Material": "mc/mtl_nt_2020_swing_set_chain",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_wall_meter_numbers":
+			{
+				"Address": "0x82EE10DC",
+				"Material": "mc/nt_2020_scrolling_numbers",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_concussion_world":
+			{
+				"Address": "0x82EC41A4",
+				"Material": "mc/mtl_t6_wpn_grenade_concussion",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_2020_house_small_roof_shell":
+			{
+				"Address": "0x82ED5518",
+				"Material": "mlv/hjk_interior_plastic_tile",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_male_01_arm_left":
+			{
+				"Address": "0x82EE29A4",
+				"Material": "mc/mtl_nt_2020_manne_male01_jacket1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_sphere_32":
+			{
+				"Address": "0x82EC9E18",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_scavenger_pack":
+			{
+				"Address": "0x82EC475C",
+				"Material": "mc/mtl_p_glo_scavenger_pack_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"popcorn_cup_single":
+			{
+				"Address": "0x82ED6CEC",
+				"Material": "mc/mtl_pocorn_cup",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_sa58_world":
+			{
+				"Address": "0x82EB666C",
+				"Material": "mc/mtl_t6_wpn_ar_sa58_camo2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_cup_holder":
+			{
+				"Address": "0x82ECEE28",
+				"Material": "mc/mtl_nt_2020_cup_holder",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_concrete_fence_192_tall":
+			{
+				"Address": "0x82EDEBB0",
+				"Material": "mlv/nt_2020_concrete_pattern_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_vzoom_dsr50_view":
+			{
+				"Address": "0x82EBA184",
+				"Material": "mc/mtl_t6_attach_optic_vzoom_dsr50",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"projectile_tag":
+			{
+				"Address": "0x82EC17B4",
+				"Material": "mc/gfx_grass_piece1",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"veh_t6_air_attack_heli_mp_dark":
+			{
+				"Address": "0x82EC6024",
+				"Material": "mc/mtl_veh_air_ah94_canopy",
+				"numBones": "75",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_saritch_world":
+			{
+				"Address": "0x82EB5DD8",
+				"Material": "mc/mtl_t6_wpn_ar_saritch",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"p6_garage_pipes_1x32":
+			{
+				"Address": "0x82EDCF18",
+				"Material": "mc/mtl_p6_pipes_garage",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_light_fixture_01":
+			{
+				"Address": "0x82ECF3E0",
+				"Material": "mc/nt_2020_metal_stainless",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_vector_world":
+			{
+				"Address": "0x82EB1474",
+				"Material": "mc/mtl_t6_wpn_smg_vector_camo4",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_peacekeeper_view":
+			{
+				"Address": "0x82EAEF48",
+				"Material": "mc/mtl_t6_wpn_smg_peacekeeper",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_wall_32x32x10":
+			{
+				"Address": "0x82ECA0F4",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_svu_world":
+			{
+				"Address": "0x82EBA460",
+				"Material": "mc/mtl_t6_wpn_sniper_svu",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"vehicle_mi24p_hind_desert_d_piece02":
+			{
+				"Address": "0x82EC68B8",
+				"Material": "mc/mtl_mi24p_hind_desert",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_usa_mp_seal6_assault_fb":
+			{
+				"Address": "0x82EE5488",
+				"Material": "mc/mtl_c_usa_mp_seal6_gear",
+				"numBones": "102",
+				"numRootBones": "1"
+				},
+			"nt_2020_curtains_short_02":
+			{
+				"Address": "0x82ED4A9C",
+				"Material": "mc/mtl_nt_2020_curtains_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_curtains_short_03":
+			{
+				"Address": "0x82ED2388",
+				"Material": "mc/mtl_nt_2020_curtains_01b",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_debris_stone_01":
+			{
+				"Address": "0x82EC8FCC",
+				"Material": "mc/mtl_fx_dest_atlas",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_32x32x128":
+			{
+				"Address": "0x82ECA7A0",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_flag_fair_01":
+			{
+				"Address": "0x82EDB650",
+				"Material": "mc/mtl_nt_2020_flags_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_civ_car_compact_red":
+			{
+				"Address": "0x82EAEA84",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_wall_512x512x10":
+			{
+				"Address": "0x82ECA4C4",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_water_barrel":
+			{
+				"Address": "0x82EDE5F8",
+				"Material": "mc/mtl_nt_water_barrel",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_concrete_fence_320_tall_dog_02":
+			{
+				"Address": "0x82EDE040",
+				"Material": "mlv/nt_2020_concrete_pattern_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_female_05_arm_right":
+			{
+				"Address": "0x82EE2E68",
+				"Material": "mc/mtl_nt_2020_manne_fem01_head2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_dest_clock_glo01_base":
+			{
+				"Address": "0x82ECF5C8",
+				"Material": "mc/global_glass",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_cans_single02":
+			{
+				"Address": "0x82EE1970",
+				"Material": "mc/mtl_nt_2020_cans_clean",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_cans_single03":
+			{
+				"Address": "0x82EE1A64",
+				"Material": "mc/mtl_nt_2020_cans_clean",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_64x64x64":
+			{
+				"Address": "0x82EC9490",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_dsr50_scope_view":
+			{
+				"Address": "0x82EB9BCC",
+				"Material": "mc/mtl_t6_wpn_sniper_dsr50",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"nt_2020_greenhouse_plant_01":
+			{
+				"Address": "0x82EDC3A8",
+				"Material": "mc/mtl_pb_plant_pot",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_greenhouse_plant_02":
+			{
+				"Address": "0x82EDC49C",
+				"Material": "mc/mat_cub_pottedplant",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_vzoom_svu_view":
+			{
+				"Address": "0x82EBACF4",
+				"Material": "mc/mtl_t6_attach_optic_vzoom_svu",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_saiga_world":
+			{
+				"Address": "0x82EBDF78",
+				"Material": "mc/mtl_t6_wpn_shotty_saiga",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_ar_silencer2_view":
+			{
+				"Address": "0x82EB3B88",
+				"Material": "mc/mtl_t6_attach_ar_silencer1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"pb_nitrogen_tank":
+			{
+				"Address": "0x82EDC778",
+				"Material": "mc/mtl_pb_nitrogen_tank",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_launch_smaw_missile":
+			{
+				"Address": "0x82EBE80C",
+				"Material": "mc/mtl_t6_wpn_launch_smaw",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_wpn_hatchet_view":
+			{
+				"Address": "0x82EC04A4",
+				"Material": "mc/mtl_t6_wpn_hatchet",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_shotgun_silencer1_world":
+			{
+				"Address": "0x82EBCC68",
+				"Material": "mc/mtl_t6_attach_shotgun_silencer1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_flag_allies_1":
+			{
+				"Address": "0x82EC4A38",
+				"Material": "mc/mtl_flag_allies_1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_sig556_world":
+			{
+				"Address": "0x82EB5820",
+				"Material": "mc/mtl_t6_wpn_ar_sig556_camo2",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"mp_flag_allies_2":
+			{
+				"Address": "0x82EC4C20",
+				"Material": "mc/mtl_flag_allies_2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_flag_allies_3":
+			{
+				"Address": "0x82EC4E08",
+				"Material": "mc/mtl_flag_allies_3",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_slums_curved_wall_bullet":
+			{
+				"Address": "0x82EAD868",
+				"Material": "mc/global_invisible_bullet_clip_brick",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_express_train_track_a02_flip":
+			{
+				"Address": "0x82EAE008",
+				"Material": "mc/metal_aircraft_catapult_strip",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_entertainment_center":
+			{
+				"Address": "0x82ED022C",
+				"Material": "mc/mtl_nt_entertainment_center",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_concrete_fence_320_tall":
+			{
+				"Address": "0x82EDDD64",
+				"Material": "mlv/nt_2020_concrete_pattern_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_female_03_d0":
+			{
+				"Address": "0x82ED9124",
+				"Material": "mc/mtl_nt_2020_manne_fem01_head2",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"fx_rifle_shell":
+			{
+				"Address": "0x82EACB10",
+				"Material": "mc/mtl_fx_shell",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_fnp45_world_lh":
+			{
+				"Address": "0x82EBD038",
+				"Material": "mc/mtl_t6_wpn_pistol_fnp45",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"german_shepherd_vest":
+			{
+				"Address": "0x82EC8DE4",
+				"Material": "mc/mtl_german_shepherd",
+				"numBones": "56",
+				"numRootBones": "1"
+				},
+			"t6_wpn_launch_smaw_world":
+			{
+				"Address": "0x82EBE718",
+				"Material": "mc/mtl_t6_wpn_launch_smaw",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"nt_electrical_outlet":
+			{
+				"Address": "0x82ECCFA8",
+				"Material": "mc/mtl_nt_electrical_oulet",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_air_fa38_killstreak":
+			{
+				"Address": "0x82EC8BFC",
+				"Material": "mc/mtl_veh_t6_air_fa38_cockpit_low",
+				"numBones": "90",
+				"numRootBones": "1"
+				},
+			"t6_wpn_knife_base_view":
+			{
+				"Address": "0x82EC02BC",
+				"Material": "mc/mtl_t6_wpn_knife_base",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"nt_2020_flag_brazil_01":
+			{
+				"Address": "0x82EDB18C",
+				"Material": "mc/mtl_nt_2020_flags_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_stapler":
+			{
+				"Address": "0x82EE0C18",
+				"Material": "mc/mtl_p_rus_stapler",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_fnp45_view_lh":
+			{
+				"Address": "0x82EBCF44",
+				"Material": "mc/mtl_t6_wpn_pistol_fnp45",
+				"numBones": "6",
+				"numRootBones": "1"
+				},
+			"foliage_gardenflowers_blue_group":
+			{
+				"Address": "0x82ED5148",
+				"Material": "mc/mtl_gardenflowers",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_green_chair":
+			{
+				"Address": "0x82ED47C0",
+				"Material": "mc/mtl_nt_2020_green_chair",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_tree_ficus_lrg_01_sway":
+			{
+				"Address": "0x82ED7950",
+				"Material": "mlv/mtl_p6_tree_ficus_lrg_01_bark1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_pipes_modular_valve":
+			{
+				"Address": "0x82EDE31C",
+				"Material": "mc/mtl_nt_2020_pipes_modular_blue",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_supply_drop_ally":
+			{
+				"Address": "0x82EC77F8",
+				"Material": "mc/mtl_t6_wpn_supply_drop_ally",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_sniper_svu_silencer_view":
+			{
+				"Address": "0x82EBAB0C",
+				"Material": "mc/mtl_t6_wpn_sniper_svu",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t5_foliage_shrubs02":
+			{
+				"Address": "0x82ED1354",
+				"Material": "mc/t5_foliage_shrub_leaf01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_x95l_world":
+			{
+				"Address": "0x82EB72D0",
+				"Material": "mc/mtl_t6_wpn_ar_x95l_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_sig556_world":
+			{
+				"Address": "0x82EB5BF0",
+				"Material": "mc/mtl_t6_wpn_ar_sig556_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_button_04_red":
+			{
+				"Address": "0x82ED284C",
+				"Material": "mc/mtl_nt_2020_buttons",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_ramp":
+			{
+				"Address": "0x82ECA000",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_wall_64x64x10":
+			{
+				"Address": "0x82ECA1E8",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_supply_drop_hq":
+			{
+				"Address": "0x82EE4824",
+				"Material": "mc/mtl_t6_wpn_supply_drop_hq",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_shelves_modern":
+			{
+				"Address": "0x82ED116C",
+				"Material": "mc/nt_2020_plastic_cream",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_monsoon_lab_door_01":
+			{
+				"Address": "0x82EDC2B4",
+				"Material": "mc/mtl_p6_monsoon_lab_doors",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_vzoom_xpr50_view":
+			{
+				"Address": "0x82EB97FC",
+				"Material": "mc/mtl_t6_attach_optic_vzoom_xpr50",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_mul_mp_pmc_smg_fb":
+			{
+				"Address": "0x82EE5FF8",
+				"Material": "mc/mtl_gen_eye_cornea",
+				"numBones": "102",
+				"numRootBones": "1"
+				},
+			"veh_t6_drone_cuav":
+			{
+				"Address": "0x82EC6C88",
+				"Material": "mc/mtl_veh_t6_cuav_drone",
+				"numBones": "38",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_type95_view":
+			{
+				"Address": "0x82EB6A3C",
+				"Material": "mc/mtl_t6_attach_tritium_wht",
+				"numBones": "7",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ballistic_knife_blade_world":
+			{
+				"Address": "0x82EC0968",
+				"Material": "mc/mtl_t6_wpn_ballistic_knife_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t5_veh_rcbomb_gib_battery":
+			{
+				"Address": "0x82EC7058",
+				"Material": "mc/mtl_t5_veh_rcbomb_allies",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_chicom_world":
+			{
+				"Address": "0x82EB1C14",
+				"Material": "mc/mtl_t6_wpn_smg_chicom_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_lmg_mk48_world":
+			{
+				"Address": "0x82EB85E0",
+				"Material": "mc/mtl_t6_wpn_lmg_mk48_camo1",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"dest_nt_nuked_female_01_arm_right":
+			{
+				"Address": "0x82EE27BC",
+				"Material": "mc/mtl_nt_2020_manne_fem01_head1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_sign_population":
+			{
+				"Address": "0x82EE3E9C",
+				"Material": "mc/mtl_nt_sign_population",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_judge_world":
+			{
+				"Address": "0x82EBC98C",
+				"Material": "mc/mtl_t6_wpn_pistol_judge",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"com_flower_yellow3":
+			{
+				"Address": "0x82EDD100",
+				"Material": "mc/mtl_plastic_bucket_soil",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_flag_switzerland_01":
+			{
+				"Address": "0x82EDBC08",
+				"Material": "mc/mtl_nt_2020_flags_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t5_weapon_mp_crossbow_stow":
+			{
+				"Address": "0x82EBFFE0",
+				"Material": "mc/mtl_t5_weapon_crossbow",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"machinery_solar_panels_on_post_top":
+			{
+				"Address": "0x82ED6088",
+				"Material": "mc/mtl_machinery_solar_panels_on_post_metal",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_xm8_world":
+			{
+				"Address": "0x82EB36C4",
+				"Material": "mc/mtl_t6_wpn_ar_xm8",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_clip_128x128x10":
+			{
+				"Address": "0x82EC976C",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"fx_pistol_shell":
+			{
+				"Address": "0x82EACDEC",
+				"Material": "mc/mtl_fx_shell",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_usa_mp_seal6_shortsleeve_viewhands":
+			{
+				"Address": "0x82EE5858",
+				"Material": "mc/mtl_viewarm_usa_mp_seal6_glove",
+				"numBones": "72",
+				"numRootBones": "1"
+				},
+			"com_flower_blue3":
+			{
+				"Address": "0x82EDCB48",
+				"Material": "mc/mtl_plastic_bucket_soil",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_drone_quad_rotor_dead_piece1":
+			{
+				"Address": "0x82EC7610",
+				"Material": "mc/mtl_t6_veh_drone_quad_rotor_body_dest",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_drone_quad_rotor_dead_piece2":
+			{
+				"Address": "0x82EC751C",
+				"Material": "mc/mtl_t6_veh_drone_quad_rotor_body_dest",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_turret_ads_carry_animate_red":
+			{
+				"Address": "0x82EC8274",
+				"Material": "mc/mtl_t6_wpn_turret_ads_red",
+				"numBones": "12",
+				"numRootBones": "1"
+				},
+			"p_glo_bomb_stack":
+			{
+				"Address": "0x82EE4A0C",
+				"Material": "mc/mtl_p_glo_bomb_stack_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_xm8_world":
+			{
+				"Address": "0x82EB32F4",
+				"Material": "mc/mtl_t6_wpn_ar_xm8",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_grip_vector_world":
+			{
+				"Address": "0x82EB165C",
+				"Material": "mc/mtl_t6_attach_grip_vector",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_128x128x128":
+			{
+				"Address": "0x82ECAD58",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_claymore_view":
+			{
+				"Address": "0x82EC1D6C",
+				"Material": "mc/mtl_t6_wpn_claymore",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_semtex_world":
+			{
+				"Address": "0x82EC1B84",
+				"Material": "mc/mtl_t6_wpn_grenade_semtex",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"nt_2020_doorframe_white":
+			{
+				"Address": "0x82ECCAE4",
+				"Material": "mc/nt_2020_plastic_cream",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_paver_circle_01":
+			{
+				"Address": "0x82EDF444",
+				"Material": "mc/jun_art_concrete_base02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_turret_ads_world_red":
+			{
+				"Address": "0x82EC12F0",
+				"Material": "mc/mtl_t6_wpn_turret_ads_detect",
+				"numBones": "12",
+				"numRootBones": "1"
+				},
+			"nt_trash_compactor_blue":
+			{
+				"Address": "0x82ED0D9C",
+				"Material": "mc/mtl_nt_trash_compactor",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_knife_base_world":
+			{
+				"Address": "0x82EC03B0",
+				"Material": "mc/mtl_t6_wpn_knife_base",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"t6_wpn_motion_sensor_view":
+			{
+				"Address": "0x82EC3EC8",
+				"Material": "mc/mtl_t6_wpn_motion_sensor",
+				"numBones": "4",
+				"numRootBones": "1"
+				},
+			"collision_clip_sphere_64":
+			{
+				"Address": "0x82EC9F0C",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_hamr_world":
+			{
+				"Address": "0x82EB89B0",
+				"Material": "mc/mtl_t6_wpn_lmg_hamr_parts",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_fiveseven_view_lh":
+			{
+				"Address": "0x82EBD314",
+				"Material": "mc/mtl_t6_wpn_pistol_fiveseven_camo1",
+				"numBones": "6",
+				"numRootBones": "1"
+				},
+			"fxanim_mp_nuked2025_sprinkler_track_mod":
+			{
+				"Address": "0x82EE0384",
+				"Material": "mc/railroadtrack_top",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_wall_clock_01_minutes":
+			{
+				"Address": "0x82EE39D8",
+				"Material": "mc/mtl_nt_2020_wall_clock_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_flag_allies_3_carry":
+			{
+				"Address": "0x82EC4EFC",
+				"Material": "mc/mtl_flag_allies_3",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_usa_mp_seal6_sniper_fb":
+			{
+				"Address": "0x82EE5A40",
+				"Material": "mc/mtl_c_usa_mp_seal6_gear",
+				"numBones": "102",
+				"numRootBones": "1"
+				},
+			"p6_karma_pot_med":
+			{
+				"Address": "0x82ECE870",
+				"Material": "mc/global_white",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_turret_sentry_gun_yellow":
+			{
+				"Address": "0x82EC7EA4",
+				"Material": "mc/mtl_t6_wpn_turret_sentry_gun_base_yellow",
+				"numBones": "15",
+				"numRootBones": "1"
+				},
+			"nt_2020_flag_arabia_01":
+			{
+				"Address": "0x82EDB92C",
+				"Material": "mc/mtl_nt_2020_flags_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_saritch_world":
+			{
+				"Address": "0x82EB5FC0",
+				"Material": "mc/mtl_t6_wpn_ar_saritch_camo1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"c_usa_mp_seal6_shotgun_fb":
+			{
+				"Address": "0x82EE5764",
+				"Material": "mc/mtl_c_gen_insidemouth",
+				"numBones": "102",
+				"numRootBones": "1"
+				},
+			"nt_2020_wall_shelves_01":
+			{
+				"Address": "0x82ED42FC",
+				"Material": "mc/nt_2020_plastic_cream",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_vector_world":
+			{
+				"Address": "0x82EB128C",
+				"Material": "mc/mtl_t6_wpn_smg_vector_camo4",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_scorpion_view":
+			{
+				"Address": "0x82EB2878",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_pillow_01":
+			{
+				"Address": "0x82ED2FEC",
+				"Material": "mc/mtl_nt_2020_pillow_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_grenade_supply_world":
+			{
+				"Address": "0x82EC14D8",
+				"Material": "mc/mtl_t6_wpn_grenade_supply",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"nt_2020_button_01":
+			{
+				"Address": "0x82ED2664",
+				"Material": "mc/mtl_nt_2020_buttons",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_flag_syria_01":
+			{
+				"Address": "0x82EDBA20",
+				"Material": "mc/mtl_nt_2020_flags_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_button_03":
+			{
+				"Address": "0x82ED2758",
+				"Material": "mc/mtl_nt_2020_buttons",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_air_v78_vtol_killstreak":
+			{
+				"Address": "0x82EC620C",
+				"Material": "mc/mtl_veh_t6_v78_vtol_friend",
+				"numBones": "76",
+				"numRootBones": "1"
+				},
+			"mlv/nt_concrete_fence_192":
+			{
+				"Address": "0x82EDF25C",
+				"Material": "mlv/nt_2020_concrete_pattern_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_b2023r_world":
+			{
+				"Address": "0x82EBCE50",
+				"Material": "mc/mtl_t6_wpn_pistol_b2023r",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"mlv/nt_2020_truck_01":
+			{
+				"Address": "0x82ED72A4",
+				"Material": "mlv/mtl_nt_2020_truck_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"tag_origin":
+			{
+				"Address": "0x82EAF500",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_dsr50_view":
+			{
+				"Address": "0x82EB9CC0",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p6_garage_pipes_1x64":
+			{
+				"Address": "0x82EDD1F4",
+				"Material": "mc/mtl_p6_pipes_garage",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_xpr50_scope_view":
+			{
+				"Address": "0x82EB8E74",
+				"Material": "mc/mtl_t6_wpn_sniper_xpr50_scope",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p6_light_karma_column_short":
+			{
+				"Address": "0x82ECF8A4",
+				"Material": "mc/dub_gold_shiny_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_type95_view":
+			{
+				"Address": "0x82EB6E0C",
+				"Material": "mc/mtl_t6_wpn_ar_type95",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_vista_speakers_01":
+			{
+				"Address": "0x82ED691C",
+				"Material": "mc/mtl_p6_speakers_short_club",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"projectile_sa6_missile_desert_mp":
+			{
+				"Address": "0x82EC8738",
+				"Material": "mc/mtl_sa6_missile_desert",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_optic_dualband_view":
+			{
+				"Address": "0x82EB7B64",
+				"Material": "mc/mtl_t6_wpn_sniper_ballista_lens",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"t6_attach_sniper_silencer1_view":
+			{
+				"Address": "0x82EB942C",
+				"Material": "mc/mtl_t6_attach_sniper_silencer1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_wall_clock_01_seconds":
+			{
+				"Address": "0x82EE38E4",
+				"Material": "mc/mtl_nt_2020_wall_clock_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_drone_uav":
+			{
+				"Address": "0x82EC6B94",
+				"Material": "mc/mtl_veh_t6_uav_drone",
+				"numBones": "38",
+				"numRootBones": "1"
+				},
+			"veh_t6_civ_car_compact_bge":
+			{
+				"Address": "0x82EAE89C",
+				"Material": "mc/global_black",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_minigun_world":
+			{
+				"Address": "0x82EB8B98",
+				"Material": "mc/mtl_t6_wpn_minigun",
+				"numBones": "6",
+				"numRootBones": "1"
+				},
+			"nt_2020_fireplace_01":
+			{
+				"Address": "0x82ED57F4",
+				"Material": "mc/mtl_nt_2020_fireplace_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_launch_smaw_view":
+			{
+				"Address": "0x82EBE624",
+				"Material": "mc/mtl_t6_wpn_launch_smaw",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"fx":
+			{
+				"Address": "0x82EAF40C",
+				"Material": "mc/missing_fx",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_glo_tool_chest":
+			{
+				"Address": "0x82ED3F2C",
+				"Material": "mc/mtl_p_glo_tool_chest",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_pipes_modular_clampc":
+			{
+				"Address": "0x82EDE228",
+				"Material": "mc/mtl_nt_2020_pipes_modular_blue",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_briefcase_bomb_world":
+			{
+				"Address": "0x82EC5884",
+				"Material": "mc/mtl_t6_wpn_briefcase_bomb",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_rag_doll_brunette":
+			{
+				"Address": "0x82ED4C84",
+				"Material": "mc/mtl_p6_rag_dolls",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_streetlight_01":
+			{
+				"Address": "0x82EDBCFC",
+				"Material": "mc/mtl_nt_2020_streetlights_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_taser_mine_world":
+			{
+				"Address": "0x82EC4480",
+				"Material": "mc/mtl_t6_wpn_taser_mine",
+				"numBones": "3",
+				"numRootBones": "1"
+				},
+			"nt_2020_food_dispenser":
+			{
+				"Address": "0x82ECF010",
+				"Material": "mc/lambert1",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shield_light_fx":
+			{
+				"Address": "0x82EC4668",
+				"Material": "mc/mtl_t6_wpn_shield_light_fx",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_generator":
+			{
+				"Address": "0x82EE00A8",
+				"Material": "mc/mtl_nt_generator",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mp_flag_neutral":
+			{
+				"Address": "0x82EC4850",
+				"Material": "mc/mtl_flag_neutral",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"com_toy_car_01":
+			{
+				"Address": "0x82ED4E6C",
+				"Material": "mc/mtl_toy_car_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_shotty_saiga_world":
+			{
+				"Address": "0x82EBDBA8",
+				"Material": "mc/mtl_t6_wpn_shotty_saiga",
+				"numBones": "5",
+				"numRootBones": "1"
+				},
+			"nt_2020_flag_korea_01":
+			{
+				"Address": "0x82EDB098",
+				"Material": "mc/mtl_nt_2020_flags_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_kard_view_lh":
+			{
+				"Address": "0x82EBD4FC",
+				"Material": "mc/mtl_t6_wpn_pistol_kard",
+				"numBones": "8",
+				"numRootBones": "1"
+				},
+			"collision_clip_32x32x128":
+			{
+				"Address": "0x82EC92A8",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t5_weapon_equip_light_red_unlit":
+			{
+				"Address": "0x82EC3170",
+				"Material": "mc/mtl_t5_weapon_equip_light_red_unlit",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_2020_vista_kiosk_02":
+			{
+				"Address": "0x82ED6828",
+				"Material": "mlv/zm_nuked_vinylsidings_white",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_ar_scarh_view":
+			{
+				"Address": "0x82EB5174",
+				"Material": "mc/mtl_t6_wpn_ar_scarh_camo1",
+				"numBones": "6",
+				"numRootBones": "1"
+				},
+			"collision_missile_128x128x10":
+			{
+				"Address": "0x82EADA50",
+				"Material": "mc/global_invisible_missile_clip",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p_rus_angle_plate_bolt":
+			{
+				"Address": "0x82ED1DD0",
+				"Material": "mc/mtl_p_rus_angle_plate",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_hk416_world":
+			{
+				"Address": "0x82EB4AC8",
+				"Material": "mc/mtl_t6_wpn_ar_hk416_camo2",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_sniper_ballista_view":
+			{
+				"Address": "0x82EBAEDC",
+				"Material": "mc/mtl_t6_wpn_sniper_ballista_camo1",
+				"numBones": "9",
+				"numRootBones": "1"
+				},
+			"t6_wpn_pistol_fnp45_view":
+			{
+				"Address": "0x82EBBA4C",
+				"Material": "mc/mtl_t6_wpn_pistol_fnp45",
+				"numBones": "6",
+				"numRootBones": "1"
+				},
+			"nt_2020_house_02_railing_01_frame":
+			{
+				"Address": "0x82ED35A4",
+				"Material": "mc/nt_2020_wood_cream",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"p6_rug_modern02":
+			{
+				"Address": "0x82ECFD68",
+				"Material": "mc/mtl_p6_rug_modern02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_saiga_view":
+			{
+				"Address": "0x82EBDE84",
+				"Material": "mc/mtl_t6_wpn_shotty_saiga",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_physics_cylinder_32x128":
+			{
+				"Address": "0x82EAD1BC",
+				"Material": "mc/global_invisible",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_vista_cart_01":
+			{
+				"Address": "0x82ED8F3C",
+				"Material": "mc/mtl_nt_2020_vista_cart",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_2020_vista_cart_02":
+			{
+				"Address": "0x82ED9218",
+				"Material": "mc/mtl_nt_2020_vista_cart",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"venetian_blind_white_64x96":
+			{
+				"Address": "0x82ED190C",
+				"Material": "mc/mtl_plastic_windowshade_white",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"collision_mp_frost_kitchen_weap":
+			{
+				"Address": "0x82EADB44",
+				"Material": "mc/global_invisible_bullet_clip_wood",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_concrete_fence_220_tall":
+			{
+				"Address": "0x82EDEE8C",
+				"Material": "mlv/nt_2020_concrete_pattern_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"mlv/nt_concrete_fence_128":
+			{
+				"Address": "0x82EDFCD8",
+				"Material": "mlv/nt_2020_concrete_pattern_02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"nt_phone_wall":
+			{
+				"Address": "0x82ECBC98",
+				"Material": "mc/mtl_nt_2020_screen_animated_01",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_drone_quad_rotor_mp_alt":
+			{
+				"Address": "0x82EC7428",
+				"Material": "mc/mtl_t6_veh_drone_quad_rotor_blades",
+				"numBones": "29",
+				"numRootBones": "1"
+				},
+			"t6_attach_mag_scorpion_view":
+			{
+				"Address": "0x82EB2690",
+				"Material": "mc/mtl_t6_attach_bullet",
+				"numBones": "2",
+				"numRootBones": "1"
+				},
+			"p6_blk_fluorescent_light_off":
+			{
+				"Address": "0x82ED58E8",
+				"Material": "mc/mtl_ny_harbor_sub_int_light",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"veh_t6_air_attack_heli_mp_light":
+			{
+				"Address": "0x82EC6118",
+				"Material": "mc/mtl_veh_air_ah94_canopy",
+				"numBones": "75",
+				"numRootBones": "1"
+				},
+			"berlin_roof_ac_short":
+			{
+				"Address": "0x82EDC1C0",
+				"Material": "mc/mtl_air_duct02",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_attach_fastmag_saritch_world":
+			{
+				"Address": "0x82EB61A8",
+				"Material": "mc/mtl_t6_wpn_ar_saritch",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"accessories_book_stack02":
+			{
+				"Address": "0x82ECDEE8",
+				"Material": "mc/mtl_accessories_books",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+			"t6_wpn_smg_mp7_world":
+			{
+				"Address": "0x82EAFD94",
+				"Material": "mc/mtl_t6_wpn_smg_mp7_camo1",
+				"numBones": "7",
+				"numRootBones": "1"
+				},
+			"nt_rooftop_angular_house":
+			{
+				"Address": "0x82ED1078",
+				"Material": "mc/metal_corrugated_wide_bars",
+				"numBones": "1",
+				"numRootBones": "1"
+				},
+		}
